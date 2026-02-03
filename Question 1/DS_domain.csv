@@ -1,0 +1,851 @@
+STUDYID,DOMAIN,USUBJID,DSSEQ,DSTERM,DSDECOD,DSCAT,VISITNUM,VISIT,DSDTC,DSSTDTC,DSSTDY
+CDISCPILOT01,DS,701-1015,R1,Randomized,Randomized,Protocol Milestone,1,Baseline,01-02-2014,01-02-2014,0
+CDISCPILOT01,DS,701-1015,R2,Protocol Completed,Completed,Disposition Event,2,Week 26,07-02-2014,07-02-2014,181
+CDISCPILOT01,DS,701-1015,R3,NA,Final Lab Visit,Disposition Event,3,Week 26,07-02-2014,07-02-2014,181
+CDISCPILOT01,DS,701-1023,R4,Randomized,Randomized,Protocol Milestone,1,Baseline,08-05-2012,08-05-2012,0
+CDISCPILOT01,DS,701-1023,R5,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,09-02-2012,09-02-2012,28
+CDISCPILOT01,DS,701-1023,R6,NA,Final Lab Visit,Disposition Event,3,Week 4,09-02-2012,09-02-2012,28
+CDISCPILOT01,DS,701-1023,R7,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,02-18-2013,02-18-2013,197
+CDISCPILOT01,DS,701-1028,R8,Randomized,Randomized,Protocol Milestone,1,Baseline,07-19-2013,07-19-2013,0
+CDISCPILOT01,DS,701-1028,R9,Protocol Completed,Completed,Disposition Event,2,Week 26,01-14-2014,01-14-2014,179
+CDISCPILOT01,DS,701-1028,R10,NA,Final Lab Visit,Disposition Event,3,Week 26,01-14-2014,01-14-2014,179
+CDISCPILOT01,DS,701-1033,R11,Randomized,Randomized,Protocol Milestone,1,Baseline,03-18-2014,03-18-2014,0
+CDISCPILOT01,DS,701-1033,R12,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 4,04-14-2014,04-14-2014,27
+CDISCPILOT01,DS,701-1033,R13,NA,Final Lab Visit,Disposition Event,3,Week 4,04-14-2014,04-14-2014,27
+CDISCPILOT01,DS,701-1033,R14,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,09-15-2014,09-15-2014,181
+CDISCPILOT01,DS,701-1034,R15,Randomized,Randomized,Protocol Milestone,1,Baseline,07-01-2014,07-01-2014,0
+CDISCPILOT01,DS,701-1034,R16,Protocol Completed,Completed,Disposition Event,2,Week 26,12-30-2014,12-30-2014,182
+CDISCPILOT01,DS,701-1034,R17,NA,Final Lab Visit,Disposition Event,3,Week 26,12-30-2014,12-30-2014,182
+CDISCPILOT01,DS,701-1047,R18,Randomized,Randomized,Protocol Milestone,1,Baseline,02-12-2013,02-12-2013,0
+CDISCPILOT01,DS,701-1047,R19,Adverse Event,Adverse Event,Disposition Event,1.1,Ambul Ecg Removal,03-29-2013,03-29-2013,45
+CDISCPILOT01,DS,701-1047,R20,NA,Final Lab Visit,Disposition Event,3,Unscheduled 6.1,04-07-2013,04-07-2013,54
+CDISCPILOT01,DS,701-1047,R21,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,07-28-2013,07-28-2013,166
+CDISCPILOT01,DS,701-1057,R22,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-20-2013,12-20-2013,0
+CDISCPILOT01,DS,701-1097,R23,Randomized,Randomized,Protocol Milestone,1,Baseline,01-01-2014,01-01-2014,0
+CDISCPILOT01,DS,701-1097,R24,Protocol Completed,Completed,Disposition Event,2,Week 26,07-09-2014,07-09-2014,189
+CDISCPILOT01,DS,701-1097,R25,NA,Final Lab Visit,Disposition Event,3,Week 26,07-09-2014,07-09-2014,189
+CDISCPILOT01,DS,701-1111,R26,Randomized,Randomized,Protocol Milestone,1,Baseline,09-07-2012,09-07-2012,0
+CDISCPILOT01,DS,701-1111,R27,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,09-17-2012,09-17-2012,10
+CDISCPILOT01,DS,701-1111,R28,NA,Final Lab Visit,Disposition Event,3,Week 2,09-17-2012,09-17-2012,10
+CDISCPILOT01,DS,701-1111,R29,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,02-22-2013,02-22-2013,168
+CDISCPILOT01,DS,701-1115,R30,Randomized,Randomized,Protocol Milestone,1,Baseline,11-30-2012,11-30-2012,0
+CDISCPILOT01,DS,701-1115,R31,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,01-23-2013,01-23-2013,54
+CDISCPILOT01,DS,701-1115,R32,NA,Final Lab Visit,Disposition Event,3,Week 8,01-23-2013,01-23-2013,54
+CDISCPILOT01,DS,701-1115,R33,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,05-20-2013,05-20-2013,171
+CDISCPILOT01,DS,701-1118,R34,Randomized,Randomized,Protocol Milestone,1,Baseline,03-12-2014,03-12-2014,0
+CDISCPILOT01,DS,701-1118,R35,Protocol Completed,Completed,Disposition Event,2,Week 26,09-09-2014,09-09-2014,181
+CDISCPILOT01,DS,701-1118,R36,NA,Final Lab Visit,Disposition Event,3,Week 26,09-09-2014,09-09-2014,181
+CDISCPILOT01,DS,701-1130,R37,Randomized,Randomized,Protocol Milestone,1,Baseline,02-15-2014,02-15-2014,0
+CDISCPILOT01,DS,701-1130,R38,Protocol Completed,Completed,Disposition Event,2,Week 26,08-16-2014,08-16-2014,182
+CDISCPILOT01,DS,701-1130,R39,NA,Final Lab Visit,Disposition Event,3,Week 26,08-16-2014,08-16-2014,182
+CDISCPILOT01,DS,701-1133,R40,Randomized,Randomized,Protocol Milestone,1,Baseline,10-28-2012,10-28-2012,0
+CDISCPILOT01,DS,701-1133,R41,Protocol Completed,Completed,Disposition Event,2,Week 26,04-29-2013,04-29-2013,183
+CDISCPILOT01,DS,701-1133,R42,NA,Final Lab Visit,Disposition Event,3,Week 26,04-29-2013,04-29-2013,183
+CDISCPILOT01,DS,701-1145,R43,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-05-2013,09-05-2013,0
+CDISCPILOT01,DS,701-1146,R44,Randomized,Randomized,Protocol Milestone,1,Baseline,05-20-2013,05-20-2013,0
+CDISCPILOT01,DS,701-1146,R45,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,06-30-2013,06-30-2013,41
+CDISCPILOT01,DS,701-1146,R46,NA,Final Lab Visit,Disposition Event,3,Week 6,06-30-2013,06-30-2013,41
+CDISCPILOT01,DS,701-1148,R47,Randomized,Randomized,Protocol Milestone,1,Baseline,08-23-2013,08-23-2013,0
+CDISCPILOT01,DS,701-1148,R48,Protocol Completed,Completed,Disposition Event,2,Week 26,02-20-2014,02-20-2014,181
+CDISCPILOT01,DS,701-1148,R49,NA,Final Lab Visit,Disposition Event,3,Week 26,02-20-2014,02-20-2014,181
+CDISCPILOT01,DS,701-1153,R50,Randomized,Randomized,Protocol Milestone,1,Baseline,09-23-2013,09-23-2013,0
+CDISCPILOT01,DS,701-1153,R51,Protocol Completed,Completed,Disposition Event,2,Week 26,04-01-2014,04-01-2014,190
+CDISCPILOT01,DS,701-1153,R52,NA,Final Lab Visit,Disposition Event,3,Week 26,04-01-2014,04-01-2014,190
+CDISCPILOT01,DS,701-1162,R53,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,04-18-2013,04-18-2013,0
+CDISCPILOT01,DS,701-1176,R54,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-30-2012,09-30-2012,0
+CDISCPILOT01,DS,701-1180,R55,Randomized,Randomized,Protocol Milestone,1,Baseline,02-12-2013,02-12-2013,0
+CDISCPILOT01,DS,701-1180,R56,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,03-23-2013,03-23-2013,39
+CDISCPILOT01,DS,701-1180,R57,NA,Final Lab Visit,Disposition Event,3,Week 6,03-23-2013,03-23-2013,39
+CDISCPILOT01,DS,701-1181,R58,Randomized,Randomized,Protocol Milestone,1,Baseline,12-05-2013,12-05-2013,0
+CDISCPILOT01,DS,701-1181,R59,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,12-12-2013,12-12-2013,7
+CDISCPILOT01,DS,701-1181,R60,NA,Final Lab Visit,Disposition Event,3,Week 2,12-12-2013,12-12-2013,7
+CDISCPILOT01,DS,701-1181,R61,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,05-23-2014,05-23-2014,169
+CDISCPILOT01,DS,701-1188,R62,Randomized,Randomized,Protocol Milestone,1,Baseline,02-15-2013,02-15-2013,0
+CDISCPILOT01,DS,701-1188,R63,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,03-25-2013,03-25-2013,38
+CDISCPILOT01,DS,701-1188,R64,NA,Final Lab Visit,Disposition Event,3,Week 6,03-25-2013,03-25-2013,38
+CDISCPILOT01,DS,701-1188,R65,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,08-04-2013,08-04-2013,170
+CDISCPILOT01,DS,701-1192,R66,Randomized,Randomized,Protocol Milestone,1,Baseline,07-22-2012,07-22-2012,0
+CDISCPILOT01,DS,701-1192,R67,Protocol Completed,Completed,Disposition Event,2,Week 26,01-20-2013,01-20-2013,182
+CDISCPILOT01,DS,701-1192,R68,NA,Final Lab Visit,Disposition Event,3,Week 26,01-20-2013,01-20-2013,182
+CDISCPILOT01,DS,701-1203,R69,Randomized,Randomized,Protocol Milestone,1,Baseline,02-02-2013,02-02-2013,0
+CDISCPILOT01,DS,701-1203,R70,Protocol Completed,Completed,Disposition Event,2,Week 26,08-03-2013,08-03-2013,182
+CDISCPILOT01,DS,701-1203,R71,NA,Final Lab Visit,Disposition Event,3,Week 26,08-03-2013,08-03-2013,182
+CDISCPILOT01,DS,701-1211,R72,Randomized,Randomized,Protocol Milestone,1,Baseline,11-15-2012,11-15-2012,0
+CDISCPILOT01,DS,701-1211,R73,NA,Final Lab Visit,Disposition Event,3,Week 8,01-08-2013,01-08-2013,54
+CDISCPILOT01,DS,701-1211,R74,Death,Death,Disposition Event,1.1,Week 12,01-14-2013,01-14-2013,60
+CDISCPILOT01,DS,701-1234,R75,Randomized,Randomized,Protocol Milestone,1,Baseline,03-30-2013,03-30-2013,0
+CDISCPILOT01,DS,701-1234,R76,Protocol Completed,Completed,Disposition Event,2,Week 26,09-22-2013,09-22-2013,176
+CDISCPILOT01,DS,701-1234,R77,NA,Final Lab Visit,Disposition Event,3,Week 26,09-22-2013,09-22-2013,176
+CDISCPILOT01,DS,701-1239,R78,Randomized,Randomized,Protocol Milestone,1,Baseline,01-11-2014,01-11-2014,0
+CDISCPILOT01,DS,701-1239,R79,Protocol Completed,Completed,Disposition Event,2,Week 26,07-11-2014,07-11-2014,181
+CDISCPILOT01,DS,701-1239,R80,NA,Final Lab Visit,Disposition Event,3,Week 26,07-11-2014,07-11-2014,181
+CDISCPILOT01,DS,701-1240,R81,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-22-2013,09-22-2013,0
+CDISCPILOT01,DS,701-1275,R82,Randomized,Randomized,Protocol Milestone,1,Baseline,02-07-2014,02-07-2014,0
+CDISCPILOT01,DS,701-1275,R83,Withdraw Consent,Withdrawal by Subject,Disposition Event,1.1,Week 16,06-14-2014,06-14-2014,127
+CDISCPILOT01,DS,701-1275,R84,NA,Final Lab Visit,Disposition Event,3,Week 16,06-14-2014,06-14-2014,127
+CDISCPILOT01,DS,701-1287,R85,Randomized,Randomized,Protocol Milestone,1,Baseline,01-25-2014,01-25-2014,0
+CDISCPILOT01,DS,701-1287,R86,Protocol Completed,Completed,Disposition Event,2,Week 26,07-26-2014,07-26-2014,182
+CDISCPILOT01,DS,701-1287,R87,NA,Final Lab Visit,Disposition Event,3,Week 26,07-26-2014,07-26-2014,182
+CDISCPILOT01,DS,701-1294,R88,Randomized,Randomized,Protocol Milestone,1,Baseline,03-24-2013,03-24-2013,0
+CDISCPILOT01,DS,701-1294,R89,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,06-14-2013,06-14-2013,82
+CDISCPILOT01,DS,701-1294,R90,NA,Final Lab Visit,Disposition Event,3,Week 12,06-14-2013,06-14-2013,82
+CDISCPILOT01,DS,701-1294,R91,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,10-08-2013,10-08-2013,198
+CDISCPILOT01,DS,701-1302,R92,Randomized,Randomized,Protocol Milestone,1,Baseline,08-29-2013,08-29-2013,0
+CDISCPILOT01,DS,701-1302,R93,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,11-05-2013,11-05-2013,68
+CDISCPILOT01,DS,701-1302,R94,NA,Final Lab Visit,Disposition Event,3,Week 12,11-05-2013,11-05-2013,68
+CDISCPILOT01,DS,701-1302,R95,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,02-13-2014,02-13-2014,168
+CDISCPILOT01,DS,701-1307,R96,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-08-2013,12-08-2013,0
+CDISCPILOT01,DS,701-1317,R97,Randomized,Randomized,Protocol Milestone,1,Baseline,05-22-2014,05-22-2014,0
+CDISCPILOT01,DS,701-1317,R98,Protocol Completed,Completed,Disposition Event,2,Week 26,11-20-2014,11-20-2014,182
+CDISCPILOT01,DS,701-1317,R99,NA,Final Lab Visit,Disposition Event,3,Week 26,11-20-2014,11-20-2014,182
+CDISCPILOT01,DS,701-1324,R100,Randomized,Randomized,Protocol Milestone,1,Baseline,10-02-2012,10-02-2012,0
+CDISCPILOT01,DS,701-1324,R101,Protocol Completed,Completed,Disposition Event,2,Week 26,04-02-2013,04-02-2013,182
+CDISCPILOT01,DS,701-1324,R102,NA,Final Lab Visit,Disposition Event,3,Week 26,04-02-2013,04-02-2013,182
+CDISCPILOT01,DS,701-1341,R103,Randomized,Randomized,Protocol Milestone,1,Baseline,01-05-2013,01-05-2013,0
+CDISCPILOT01,DS,701-1341,R104,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,02-07-2013,02-07-2013,33
+CDISCPILOT01,DS,701-1341,R105,NA,Final Lab Visit,Disposition Event,3,Week 4,02-07-2013,02-07-2013,33
+CDISCPILOT01,DS,701-1345,R106,Randomized,Randomized,Protocol Milestone,1,Baseline,10-08-2013,10-08-2013,0
+CDISCPILOT01,DS,701-1345,R107,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 24,03-18-2014,03-18-2014,161
+CDISCPILOT01,DS,701-1345,R108,NA,Final Lab Visit,Disposition Event,3,Week 24,03-18-2014,03-18-2014,161
+CDISCPILOT01,DS,701-1356,R109,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,04-01-2014,04-01-2014,0
+CDISCPILOT01,DS,701-1360,R110,Randomized,Randomized,Protocol Milestone,1,Baseline,07-31-2013,07-31-2013,0
+CDISCPILOT01,DS,701-1360,R111,Pmd Decision Due to Ae's,Physician Decision,Disposition Event,1.1,Week 2,08-14-2013,08-14-2013,14
+CDISCPILOT01,DS,701-1360,R112,NA,Final Lab Visit,Disposition Event,3,Week 2,08-14-2013,08-14-2013,14
+CDISCPILOT01,DS,701-1360,R113,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,02-11-2014,02-11-2014,195
+CDISCPILOT01,DS,701-1363,R114,Randomized,Randomized,Protocol Milestone,1,Baseline,05-30-2013,05-30-2013,0
+CDISCPILOT01,DS,701-1363,R115,Protocol Completed,Completed,Disposition Event,2,Week 26,11-27-2013,11-27-2013,181
+CDISCPILOT01,DS,701-1363,R116,NA,Final Lab Visit,Disposition Event,3,Week 26,11-27-2013,11-27-2013,181
+CDISCPILOT01,DS,701-1369,R117,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-18-2013,09-18-2013,0
+CDISCPILOT01,DS,701-1383,R118,Randomized,Randomized,Protocol Milestone,1,Baseline,02-04-2013,02-04-2013,0
+CDISCPILOT01,DS,701-1383,R119,Protocol Completed,Completed,Disposition Event,2,Week 26,08-06-2013,08-06-2013,183
+CDISCPILOT01,DS,701-1383,R120,NA,Final Lab Visit,Disposition Event,3,Week 26,08-06-2013,08-06-2013,183
+CDISCPILOT01,DS,701-1386,R121,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-28-2013,12-28-2013,0
+CDISCPILOT01,DS,701-1387,R122,Randomized,Randomized,Protocol Milestone,1,Baseline,03-12-2014,03-12-2014,0
+CDISCPILOT01,DS,701-1387,R123,Protocol Violation,Protocol Violation,Disposition Event,1.1,Week 2,03-25-2014,03-25-2014,13
+CDISCPILOT01,DS,701-1387,R124,NA,Final Lab Visit,Disposition Event,3,Week 2,03-25-2014,03-25-2014,13
+CDISCPILOT01,DS,701-1387,R125,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,08-27-2014,08-27-2014,168
+CDISCPILOT01,DS,701-1392,R126,Randomized,Randomized,Protocol Milestone,1,Baseline,10-28-2012,10-28-2012,0
+CDISCPILOT01,DS,701-1392,R127,Protocol Completed,Completed,Disposition Event,2,Week 26,04-28-2013,04-28-2013,182
+CDISCPILOT01,DS,701-1392,R128,NA,Final Lab Visit,Disposition Event,3,Week 26,04-28-2013,04-28-2013,182
+CDISCPILOT01,DS,701-1411,R129,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-14-2012,11-14-2012,0
+CDISCPILOT01,DS,701-1415,R130,Randomized,Randomized,Protocol Milestone,1,Baseline,09-23-2013,09-23-2013,0
+CDISCPILOT01,DS,701-1415,R131,Protocol Completed,Completed,Disposition Event,2,Week 26,03-24-2014,03-24-2014,182
+CDISCPILOT01,DS,701-1415,R132,NA,Final Lab Visit,Disposition Event,3,Week 26,03-24-2014,03-24-2014,182
+CDISCPILOT01,DS,701-1429,R133,Randomized,Randomized,Protocol Milestone,1,Baseline,03-19-2013,03-19-2013,0
+CDISCPILOT01,DS,701-1429,R134,Withdraw Consent Due to Compliancy Issue,Withdrawal by Subject,Disposition Event,1.1,Week 6,04-30-2013,04-30-2013,42
+CDISCPILOT01,DS,701-1429,R135,NA,Final Lab Visit,Disposition Event,3,Week 6,04-30-2013,04-30-2013,42
+CDISCPILOT01,DS,701-1440,R136,Randomized,Randomized,Protocol Milestone,1,Baseline,08-08-2013,08-08-2013,0
+CDISCPILOT01,DS,701-1440,R137,Protocol Completed,Completed,Disposition Event,2,Week 26,02-05-2014,02-05-2014,181
+CDISCPILOT01,DS,701-1440,R138,NA,Final Lab Visit,Disposition Event,3,Week 26,02-05-2014,02-05-2014,181
+CDISCPILOT01,DS,701-1442,R139,Randomized,Randomized,Protocol Milestone,1,Baseline,10-26-2013,10-26-2013,0
+CDISCPILOT01,DS,701-1442,R140,Protocol Completed,Completed,Disposition Event,2,Week 26,04-26-2014,04-26-2014,182
+CDISCPILOT01,DS,701-1442,R141,NA,Final Lab Visit,Disposition Event,3,Week 26,04-26-2014,04-26-2014,182
+CDISCPILOT01,DS,701-1444,R142,Randomized,Randomized,Protocol Milestone,1,Baseline,01-05-2013,01-05-2013,0
+CDISCPILOT01,DS,701-1444,R143,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,02-13-2013,02-13-2013,39
+CDISCPILOT01,DS,701-1444,R144,NA,Final Lab Visit,Disposition Event,3,Week 6,02-13-2013,02-13-2013,39
+CDISCPILOT01,DS,701-1444,R145,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,06-20-2013,06-20-2013,166
+CDISCPILOT01,DS,702-1082,R146,Randomized,Randomized,Protocol Milestone,1,Baseline,07-26-2013,07-26-2013,0
+CDISCPILOT01,DS,702-1082,R147,"Pt Finds Patches""Inconvenient & Itchy;pt Prefers'pills'""",Withdrawal by Subject,Disposition Event,1.1,Week 12,11-17-2013,11-17-2013,114
+CDISCPILOT01,DS,702-1082,R148,NA,Final Lab Visit,Disposition Event,3,Week 12,11-17-2013,11-17-2013,114
+CDISCPILOT01,DS,703-1042,R149,Randomized,Randomized,Protocol Milestone,1,Baseline,03-02-2013,03-02-2013,0
+CDISCPILOT01,DS,703-1042,R150,Protocol Completed,Completed,Disposition Event,2,Week 26,08-31-2013,08-31-2013,182
+CDISCPILOT01,DS,703-1042,R151,NA,Final Lab Visit,Disposition Event,3,Week 26,08-31-2013,08-31-2013,182
+CDISCPILOT01,DS,703-1076,R152,Randomized,Randomized,Protocol Milestone,1,Baseline,10-25-2013,10-25-2013,0
+CDISCPILOT01,DS,703-1076,R153,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,12-24-2013,12-24-2013,60
+CDISCPILOT01,DS,703-1076,R154,NA,Final Lab Visit,Disposition Event,3,Week 12,12-24-2013,12-24-2013,60
+CDISCPILOT01,DS,703-1086,R155,Randomized,Randomized,Protocol Milestone,1,Baseline,09-02-2012,09-02-2012,0
+CDISCPILOT01,DS,703-1086,R156,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,12-24-2012,12-24-2012,113
+CDISCPILOT01,DS,703-1086,R157,NA,Final Lab Visit,Disposition Event,3,Week 16,12-24-2012,12-24-2012,113
+CDISCPILOT01,DS,703-1086,R158,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,03-26-2013,03-26-2013,205
+CDISCPILOT01,DS,703-1096,R159,Randomized,Randomized,Protocol Milestone,1,Baseline,01-25-2013,01-25-2013,0
+CDISCPILOT01,DS,703-1096,R160,NA,Final Lab Visit,Disposition Event,3,Week 4,02-23-2013,02-23-2013,29
+CDISCPILOT01,DS,703-1096,R161,Unable to Contact Patient (Lost to Follow-Up),Lost to Follow-Up,Disposition Event,1.1,Week 6,03-29-2013,03-29-2013,63
+CDISCPILOT01,DS,703-1100,R162,Randomized,Randomized,Protocol Milestone,1,Baseline,03-13-2013,03-13-2013,0
+CDISCPILOT01,DS,703-1100,R163,Protocol Completed,Completed,Disposition Event,2,Week 26,09-14-2013,09-14-2013,185
+CDISCPILOT01,DS,703-1100,R164,NA,Final Lab Visit,Disposition Event,3,Week 26,09-14-2013,09-14-2013,185
+CDISCPILOT01,DS,703-1119,R165,Randomized,Randomized,Protocol Milestone,1,Baseline,02-20-2013,02-20-2013,0
+CDISCPILOT01,DS,703-1119,R166,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,06-13-2013,06-13-2013,113
+CDISCPILOT01,DS,703-1119,R167,NA,Final Lab Visit,Disposition Event,3,Week 16,06-13-2013,06-13-2013,113
+CDISCPILOT01,DS,703-1119,R168,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,08-24-2013,08-24-2013,185
+CDISCPILOT01,DS,703-1175,R169,Randomized,Randomized,Protocol Milestone,1,Baseline,12-20-2013,12-20-2013,0
+CDISCPILOT01,DS,703-1175,R170,Protocol Entry Criteria not Met,Protocol Violation,Disposition Event,1.1,Week 2,12-31-2013,12-31-2013,11
+CDISCPILOT01,DS,703-1175,R171,NA,Final Lab Visit,Disposition Event,3,Week 2,12-31-2013,12-31-2013,11
+CDISCPILOT01,DS,703-1182,R172,Randomized,Randomized,Protocol Milestone,1,Baseline,10-17-2013,10-17-2013,0
+CDISCPILOT01,DS,703-1182,R173,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,12-12-2013,12-12-2013,56
+CDISCPILOT01,DS,703-1182,R174,NA,Final Lab Visit,Disposition Event,3,Week 8,12-12-2013,12-12-2013,56
+CDISCPILOT01,DS,703-1197,R175,NA,Final Lab Visit,Disposition Event,3,Unscheduled 1.1,06-01-2013,06-01-2013,0
+CDISCPILOT01,DS,703-1197,R176,Randomized,Randomized,Protocol Milestone,1,Baseline,06-16-2013,06-16-2013,15
+CDISCPILOT01,DS,703-1197,R177,Caregiver Decision:  See Comment Page,Withdrawal by Subject,Disposition Event,1.1,Week 2,07-22-2013,07-22-2013,51
+CDISCPILOT01,DS,703-1210,R178,Randomized,Randomized,Protocol Milestone,1,Baseline,03-16-2013,03-16-2013,0
+CDISCPILOT01,DS,703-1210,R179,Protocol Completed,Completed,Disposition Event,2,Week 26,09-06-2013,09-06-2013,174
+CDISCPILOT01,DS,703-1210,R180,NA,Final Lab Visit,Disposition Event,3,Week 26,09-06-2013,09-06-2013,174
+CDISCPILOT01,DS,703-1258,R181,Randomized,Randomized,Protocol Milestone,1,Baseline,07-20-2012,07-20-2012,0
+CDISCPILOT01,DS,703-1258,R182,NA,Final Lab Visit,Disposition Event,3,Week 24,12-31-2012,12-31-2012,164
+CDISCPILOT01,DS,703-1258,R183,Adverse Event,Adverse Event,Disposition Event,1.1,Week 26,01-21-2013,01-21-2013,185
+CDISCPILOT01,DS,703-1279,R184,NA,Final Lab Visit,Disposition Event,3,Screening 1,04-27-2013,04-27-2013,0
+CDISCPILOT01,DS,703-1279,R185,Randomized,Randomized,Protocol Milestone,1,Baseline,05-13-2013,05-13-2013,16
+CDISCPILOT01,DS,703-1279,R186,Caregiver Became Ill,Withdrawal by Subject,Disposition Event,1.1,Week 2,06-22-2013,06-22-2013,56
+CDISCPILOT01,DS,703-1295,R187,Randomized,Randomized,Protocol Milestone,1,Baseline,11-21-2013,11-21-2013,0
+CDISCPILOT01,DS,703-1295,R188,Family Wishes to Discontinue,Withdrawal by Subject,Disposition Event,1.1,Week 20,05-19-2014,05-19-2014,179
+CDISCPILOT01,DS,703-1295,R189,NA,Final Lab Visit,Disposition Event,3,Week 20,05-19-2014,05-19-2014,179
+CDISCPILOT01,DS,703-1299,R190,Randomized,Randomized,Protocol Milestone,1,Baseline,09-12-2012,09-12-2012,0
+CDISCPILOT01,DS,703-1299,R191,Protocol Completed,Completed,Disposition Event,2,Week 26,03-13-2013,03-13-2013,182
+CDISCPILOT01,DS,703-1299,R192,NA,Final Lab Visit,Disposition Event,3,Week 26,03-13-2013,03-13-2013,182
+CDISCPILOT01,DS,703-1335,R193,Randomized,Randomized,Protocol Milestone,1,Baseline,03-17-2014,03-17-2014,0
+CDISCPILOT01,DS,703-1335,R194,Protocol Violation,Protocol Violation,Disposition Event,1.1,Week 6,05-24-2014,05-24-2014,68
+CDISCPILOT01,DS,703-1335,R195,NA,Final Lab Visit,Disposition Event,3,Week 6,05-24-2014,05-24-2014,68
+CDISCPILOT01,DS,703-1379,R196,Randomized,Randomized,Protocol Milestone,1,Baseline,09-22-2013,09-22-2013,0
+CDISCPILOT01,DS,703-1379,R197,Protocol Completed,Completed,Disposition Event,2,Week 26,03-21-2014,03-21-2014,180
+CDISCPILOT01,DS,703-1379,R198,NA,Final Lab Visit,Disposition Event,3,Week 26,03-21-2014,03-21-2014,180
+CDISCPILOT01,DS,703-1396,R199,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-09-2014,02-09-2014,0
+CDISCPILOT01,DS,703-1403,R200,Randomized,Randomized,Protocol Milestone,1,Baseline,12-12-2012,12-12-2012,0
+CDISCPILOT01,DS,703-1403,R201,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,12-19-2012,12-19-2012,7
+CDISCPILOT01,DS,703-1403,R202,NA,Final Lab Visit,Disposition Event,3,Week 2,12-19-2012,12-19-2012,7
+CDISCPILOT01,DS,703-1439,R203,Randomized,Randomized,Protocol Milestone,1,Baseline,03-12-2014,03-12-2014,0
+CDISCPILOT01,DS,703-1439,R204,Protocol Completed,Completed,Disposition Event,2,Week 26,09-11-2014,09-11-2014,183
+CDISCPILOT01,DS,703-1439,R205,NA,Final Lab Visit,Disposition Event,3,Week 26,09-11-2014,09-11-2014,183
+CDISCPILOT01,DS,704-1008,R206,Randomized,Randomized,Protocol Milestone,1,Baseline,01-13-2013,01-13-2013,0
+CDISCPILOT01,DS,704-1008,R207,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,02-25-2013,02-25-2013,43
+CDISCPILOT01,DS,704-1008,R208,NA,Final Lab Visit,Disposition Event,3,Week 6,02-25-2013,02-25-2013,43
+CDISCPILOT01,DS,704-1009,R209,Randomized,Randomized,Protocol Milestone,1,Baseline,08-27-2013,08-27-2013,0
+CDISCPILOT01,DS,704-1009,R210,NA,Final Lab Visit,Disposition Event,3,Week 2,09-14-2013,09-14-2013,18
+CDISCPILOT01,DS,704-1009,R211,Too Time Consuming;pt Refused Future Holters,Withdrawal by Subject,Disposition Event,1.1,Week 4,10-02-2013,10-02-2013,36
+CDISCPILOT01,DS,704-1010,R212,Randomized,Randomized,Protocol Milestone,1,Baseline,02-21-2014,02-21-2014,0
+CDISCPILOT01,DS,704-1010,R213,Patient is Moving,Withdrawal by Subject,Disposition Event,1.1,Week 20,07-09-2014,07-09-2014,138
+CDISCPILOT01,DS,704-1010,R214,NA,Final Lab Visit,Disposition Event,3,Week 20,07-09-2014,07-09-2014,138
+CDISCPILOT01,DS,704-1017,R215,Randomized,Randomized,Protocol Milestone,1,Baseline,10-06-2013,10-06-2013,0
+CDISCPILOT01,DS,704-1017,R216,NA,Final Lab Visit,Disposition Event,3,Week 4,11-01-2013,11-01-2013,26
+CDISCPILOT01,DS,704-1017,R217,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,11-24-2013,11-24-2013,49
+CDISCPILOT01,DS,704-1025,R218,Randomized,Randomized,Protocol Milestone,1,Baseline,09-27-2013,09-27-2013,0
+CDISCPILOT01,DS,704-1025,R219,Adverse Event,Adverse Event,Disposition Event,1.1,Ambul Ecg Removal,11-29-2013,11-29-2013,63
+CDISCPILOT01,DS,704-1025,R220,NA,Final Lab Visit,Disposition Event,3,Ambul Ecg Removal,11-29-2013,11-29-2013,63
+CDISCPILOT01,DS,704-1065,R221,Randomized,Randomized,Protocol Milestone,1,Baseline,10-24-2013,10-24-2013,0
+CDISCPILOT01,DS,704-1065,R222,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,12-24-2013,12-24-2013,61
+CDISCPILOT01,DS,704-1065,R223,NA,Final Lab Visit,Disposition Event,3,Week 12,12-24-2013,12-24-2013,61
+CDISCPILOT01,DS,704-1074,R224,Randomized,Randomized,Protocol Milestone,1,Baseline,01-22-2014,01-22-2014,0
+CDISCPILOT01,DS,704-1074,R225,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,03-31-2014,03-31-2014,68
+CDISCPILOT01,DS,704-1074,R226,NA,Final Lab Visit,Disposition Event,3,Week 8,03-31-2014,03-31-2014,68
+CDISCPILOT01,DS,704-1093,R227,Randomized,Randomized,Protocol Milestone,1,Baseline,03-15-2013,03-15-2013,0
+CDISCPILOT01,DS,704-1093,R228,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,06-20-2013,06-20-2013,97
+CDISCPILOT01,DS,704-1093,R229,NA,Final Lab Visit,Disposition Event,3,Week 16,06-20-2013,06-20-2013,97
+CDISCPILOT01,DS,704-1093,R230,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,12-25-2013,12-25-2013,285
+CDISCPILOT01,DS,704-1114,R231,Randomized,Randomized,Protocol Milestone,1,Baseline,01-23-2013,01-23-2013,0
+CDISCPILOT01,DS,704-1114,R232,Leaving Area for 5 Months,Withdrawal by Subject,Disposition Event,1.1,Week 24,07-08-2013,07-08-2013,166
+CDISCPILOT01,DS,704-1114,R233,NA,Final Lab Visit,Disposition Event,3,Week 24,07-08-2013,07-08-2013,166
+CDISCPILOT01,DS,704-1120,R234,Randomized,Randomized,Protocol Milestone,1,Baseline,12-02-2013,12-02-2013,0
+CDISCPILOT01,DS,704-1120,R235,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,02-03-2014,02-03-2014,63
+CDISCPILOT01,DS,704-1120,R236,NA,Final Lab Visit,Disposition Event,3,Week 12,02-03-2014,02-03-2014,63
+CDISCPILOT01,DS,704-1127,R237,Randomized,Randomized,Protocol Milestone,1,Baseline,10-02-2013,10-02-2013,0
+CDISCPILOT01,DS,704-1127,R238,Protocol Completed,Completed,Disposition Event,2,Week 26,03-31-2014,03-31-2014,180
+CDISCPILOT01,DS,704-1127,R239,NA,Final Lab Visit,Disposition Event,3,Week 26,03-31-2014,03-31-2014,180
+CDISCPILOT01,DS,704-1135,R240,Randomized,Randomized,Protocol Milestone,1,Baseline,10-31-2013,10-31-2013,0
+CDISCPILOT01,DS,704-1135,R241,Protocol Completed,Completed,Disposition Event,2,Week 26,05-16-2014,05-16-2014,197
+CDISCPILOT01,DS,704-1135,R242,NA,Final Lab Visit,Disposition Event,3,Week 26,05-16-2014,05-16-2014,197
+CDISCPILOT01,DS,704-1164,R243,Randomized,Randomized,Protocol Milestone,1,Baseline,09-19-2012,09-19-2012,0
+CDISCPILOT01,DS,704-1164,R244,Protocol Completed,Completed,Disposition Event,2,Week 26,04-04-2013,04-04-2013,197
+CDISCPILOT01,DS,704-1164,R245,NA,Final Lab Visit,Disposition Event,3,Week 26,04-04-2013,04-04-2013,197
+CDISCPILOT01,DS,704-1218,R246,Randomized,Randomized,Protocol Milestone,1,Baseline,11-19-2012,11-19-2012,0
+CDISCPILOT01,DS,704-1218,R247,Protocol Completed,Completed,Disposition Event,2,Week 26,05-27-2013,05-27-2013,189
+CDISCPILOT01,DS,704-1218,R248,NA,Final Lab Visit,Disposition Event,3,Week 26,05-27-2013,05-27-2013,189
+CDISCPILOT01,DS,704-1233,R249,Randomized,Randomized,Protocol Milestone,1,Baseline,03-21-2013,03-21-2013,0
+CDISCPILOT01,DS,704-1233,R250,NA,Final Lab Visit,Disposition Event,3,Week 16,07-11-2013,07-11-2013,112
+CDISCPILOT01,DS,704-1233,R251,Withdrew Consent,Withdrawal by Subject,Disposition Event,1.1,Week 20,07-14-2013,07-14-2013,115
+CDISCPILOT01,DS,704-1241,R252,Randomized,Randomized,Protocol Milestone,1,Baseline,08-25-2013,08-25-2013,0
+CDISCPILOT01,DS,704-1241,R253,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,10-31-2013,10-31-2013,67
+CDISCPILOT01,DS,704-1241,R254,NA,Final Lab Visit,Disposition Event,3,Week 8,10-31-2013,10-31-2013,67
+CDISCPILOT01,DS,704-1260,R255,Randomized,Randomized,Protocol Milestone,1,Baseline,08-30-2012,08-30-2012,0
+CDISCPILOT01,DS,704-1260,R256,NA,Final Lab Visit,Disposition Event,3,Week 8,10-24-2012,10-24-2012,55
+CDISCPILOT01,DS,704-1260,R257,Too many Visits,Withdrawal by Subject,Disposition Event,1.1,Week 12,01-18-2013,01-18-2013,141
+CDISCPILOT01,DS,704-1266,R258,Randomized,Randomized,Protocol Milestone,1,Baseline,10-13-2013,10-13-2013,0
+CDISCPILOT01,DS,704-1266,R259,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,12-06-2013,12-06-2013,54
+CDISCPILOT01,DS,704-1266,R260,NA,Final Lab Visit,Disposition Event,3,Week 8,12-06-2013,12-06-2013,54
+CDISCPILOT01,DS,704-1323,R261,Randomized,Randomized,Protocol Milestone,1,Baseline,07-08-2013,07-08-2013,0
+CDISCPILOT01,DS,704-1323,R262,NA,Final Lab Visit,Disposition Event,3,Week 4,08-04-2013,08-04-2013,27
+CDISCPILOT01,DS,704-1323,R263,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,08-08-2013,08-08-2013,31
+CDISCPILOT01,DS,704-1325,R264,Randomized,Randomized,Protocol Milestone,1,Baseline,04-23-2014,04-23-2014,0
+CDISCPILOT01,DS,704-1325,R265,Protocol Violation,Protocol Violation,Disposition Event,1.1,Week 16,08-06-2014,08-06-2014,105
+CDISCPILOT01,DS,704-1325,R266,NA,Final Lab Visit,Disposition Event,3,Week 16,08-06-2014,08-06-2014,105
+CDISCPILOT01,DS,704-1332,R267,Randomized,Randomized,Protocol Milestone,1,Baseline,12-09-2013,12-09-2013,0
+CDISCPILOT01,DS,704-1332,R268,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,02-16-2014,02-16-2014,69
+CDISCPILOT01,DS,704-1332,R269,NA,Final Lab Visit,Disposition Event,3,Week 12,02-16-2014,02-16-2014,69
+CDISCPILOT01,DS,704-1351,R270,Randomized,Randomized,Protocol Milestone,1,Baseline,10-12-2013,10-12-2013,0
+CDISCPILOT01,DS,704-1351,R271,Protocol Completed,Completed,Disposition Event,2,Week 26,04-18-2014,04-18-2014,188
+CDISCPILOT01,DS,704-1351,R272,NA,Final Lab Visit,Disposition Event,3,Week 26,04-18-2014,04-18-2014,188
+CDISCPILOT01,DS,704-1388,R273,Randomized,Randomized,Protocol Milestone,1,Baseline,12-07-2012,12-07-2012,0
+CDISCPILOT01,DS,704-1388,R274,Protocol Completed,Completed,Disposition Event,2,Week 26,06-19-2013,06-19-2013,194
+CDISCPILOT01,DS,704-1388,R275,NA,Final Lab Visit,Disposition Event,3,Week 26,06-19-2013,06-19-2013,194
+CDISCPILOT01,DS,704-1435,R276,Randomized,Randomized,Protocol Milestone,1,Baseline,11-17-2012,11-17-2012,0
+CDISCPILOT01,DS,704-1435,R277,Withdrew Consent,Withdrawal by Subject,Disposition Event,1.1,Week 8,01-12-2013,01-12-2013,56
+CDISCPILOT01,DS,704-1435,R278,NA,Final Lab Visit,Disposition Event,3,Week 8,01-12-2013,01-12-2013,56
+CDISCPILOT01,DS,704-1445,R279,Randomized,Randomized,Protocol Milestone,1,Baseline,05-11-2014,05-11-2014,0
+CDISCPILOT01,DS,704-1445,R280,NA,Final Lab Visit,Disposition Event,3,Week 20,10-01-2014,10-01-2014,143
+CDISCPILOT01,DS,704-1445,R281,Death,Death,Disposition Event,1.1,Week 24,11-01-2014,11-01-2014,174
+CDISCPILOT01,DS,705-1011,R282,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-01-2013,09-01-2013,0
+CDISCPILOT01,DS,705-1018,R283,NA,Final Lab Visit,Disposition Event,3,Screening 1,06-30-2013,06-30-2013,0
+CDISCPILOT01,DS,705-1018,R284,Randomized,Randomized,Protocol Milestone,1,Baseline,07-05-2013,07-05-2013,5
+CDISCPILOT01,DS,705-1018,R285,Patient Withdrew Consent,Withdrawal by Subject,Disposition Event,1.1,Week 2,07-12-2013,07-12-2013,12
+CDISCPILOT01,DS,705-1031,R286,Randomized,Randomized,Protocol Milestone,1,Baseline,11-27-2013,11-27-2013,0
+CDISCPILOT01,DS,705-1031,R287,Unable to Contact Patient (Lost to Follow-Up),Lost to Follow-Up,Disposition Event,1.1,Week 24,05-11-2014,05-11-2014,165
+CDISCPILOT01,DS,705-1031,R288,NA,Final Lab Visit,Disposition Event,3,Week 24,05-11-2014,05-11-2014,165
+CDISCPILOT01,DS,705-1058,R289,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-02-2013,12-02-2013,0
+CDISCPILOT01,DS,705-1059,R290,Randomized,Randomized,Protocol Milestone,1,Baseline,08-05-2013,08-05-2013,0
+CDISCPILOT01,DS,705-1059,R291,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,12-05-2013,12-05-2013,122
+CDISCPILOT01,DS,705-1059,R292,NA,Final Lab Visit,Disposition Event,3,Week 16,12-05-2013,12-05-2013,122
+CDISCPILOT01,DS,705-1059,R293,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,02-06-2014,02-06-2014,185
+CDISCPILOT01,DS,705-1112,R294,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-23-2014,02-23-2014,0
+CDISCPILOT01,DS,705-1186,R295,Randomized,Randomized,Protocol Milestone,1,Baseline,01-08-2014,01-08-2014,0
+CDISCPILOT01,DS,705-1186,R296,Hyperbilirubinemia,Physician Decision,Disposition Event,1.1,Week 4,02-07-2014,02-07-2014,30
+CDISCPILOT01,DS,705-1186,R297,NA,Final Lab Visit,Disposition Event,3,Unscheduled 5.1,02-07-2014,02-07-2014,30
+CDISCPILOT01,DS,705-1199,R298,Randomized,Randomized,Protocol Milestone,1,Baseline,09-16-2013,09-16-2013,0
+CDISCPILOT01,DS,705-1199,R299,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,09-29-2013,09-29-2013,13
+CDISCPILOT01,DS,705-1199,R300,NA,Final Lab Visit,Disposition Event,3,Week 2,09-29-2013,09-29-2013,13
+CDISCPILOT01,DS,705-1243,R301,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-26-2013,02-26-2013,0
+CDISCPILOT01,DS,705-1280,R302,Randomized,Randomized,Protocol Milestone,1,Baseline,01-17-2014,01-17-2014,0
+CDISCPILOT01,DS,705-1280,R303,NA,Final Lab Visit,Disposition Event,3,Week 26,07-24-2014,07-24-2014,188
+CDISCPILOT01,DS,705-1280,R304,Protocol Completed,Completed,Disposition Event,2,Week 26,07-25-2014,07-25-2014,189
+CDISCPILOT01,DS,705-1281,R305,Randomized,Randomized,Protocol Milestone,1,Baseline,11-28-2013,11-28-2013,0
+CDISCPILOT01,DS,705-1281,R306,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,03-17-2014,03-17-2014,109
+CDISCPILOT01,DS,705-1281,R307,NA,Final Lab Visit,Disposition Event,3,Week 16,03-17-2014,03-17-2014,109
+CDISCPILOT01,DS,705-1282,R308,Randomized,Randomized,Protocol Milestone,1,Baseline,12-26-2012,12-26-2012,0
+CDISCPILOT01,DS,705-1282,R309,Protocol Completed,Completed,Disposition Event,2,Week 26,06-24-2013,06-24-2013,180
+CDISCPILOT01,DS,705-1282,R310,NA,Final Lab Visit,Disposition Event,3,Week 26,06-24-2013,06-24-2013,180
+CDISCPILOT01,DS,705-1292,R311,Randomized,Randomized,Protocol Milestone,1,Baseline,10-14-2013,10-14-2013,0
+CDISCPILOT01,DS,705-1292,R312,Protocol Completed,Completed,Disposition Event,2,Week 26,05-14-2014,05-14-2014,212
+CDISCPILOT01,DS,705-1292,R313,NA,Final Lab Visit,Disposition Event,3,Week 26,05-14-2014,05-14-2014,212
+CDISCPILOT01,DS,705-1303,R314,Randomized,Randomized,Protocol Milestone,1,Baseline,12-16-2013,12-16-2013,0
+CDISCPILOT01,DS,705-1303,R315,NA,Final Lab Visit,Disposition Event,3,Week 16,04-07-2014,04-07-2014,112
+CDISCPILOT01,DS,705-1303,R316,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,06-02-2014,06-02-2014,168
+CDISCPILOT01,DS,705-1310,R317,Randomized,Randomized,Protocol Milestone,1,Baseline,11-02-2013,11-02-2013,0
+CDISCPILOT01,DS,705-1310,R318,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,01-23-2014,01-23-2014,82
+CDISCPILOT01,DS,705-1310,R319,NA,Final Lab Visit,Disposition Event,3,Week 12,01-23-2014,01-23-2014,82
+CDISCPILOT01,DS,705-1349,R320,Randomized,Randomized,Protocol Milestone,1,Baseline,03-10-2013,03-10-2013,0
+CDISCPILOT01,DS,705-1349,R321,Protocol Completed,Completed,Disposition Event,2,Week 26,09-08-2013,09-08-2013,182
+CDISCPILOT01,DS,705-1349,R322,NA,Final Lab Visit,Disposition Event,3,Week 26,09-08-2013,09-08-2013,182
+CDISCPILOT01,DS,705-1377,R323,Randomized,Randomized,Protocol Milestone,1,Baseline,01-04-2014,01-04-2014,0
+CDISCPILOT01,DS,705-1377,R324,NA,Final Lab Visit,Disposition Event,3,Week 4,02-07-2014,02-07-2014,34
+CDISCPILOT01,DS,705-1377,R325,Patient Withdrew Consent,Withdrawal by Subject,Disposition Event,1.1,Week 6,03-07-2014,03-07-2014,62
+CDISCPILOT01,DS,705-1382,R326,NA,Final Lab Visit,Disposition Event,3,Screening 1,05-09-2013,05-09-2013,0
+CDISCPILOT01,DS,705-1382,R327,Protocol Entry Criteria not Met,Protocol Violation,Disposition Event,1.1,Week 2,05-13-2013,05-13-2013,4
+CDISCPILOT01,DS,705-1382,R328,Randomized,Randomized,Protocol Milestone,1,Baseline,05-13-2013,05-13-2013,4
+CDISCPILOT01,DS,705-1393,R329,Randomized,Randomized,Protocol Milestone,1,Baseline,09-07-2012,09-07-2012,0
+CDISCPILOT01,DS,705-1393,R330,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,02-20-2013,02-20-2013,166
+CDISCPILOT01,DS,705-1393,R331,NA,Final Lab Visit,Disposition Event,3,Week 20,02-20-2013,02-20-2013,166
+CDISCPILOT01,DS,705-1421,R332,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,01-14-2013,01-14-2013,0
+CDISCPILOT01,DS,705-1431,R333,Randomized,Randomized,Protocol Milestone,1,Baseline,06-23-2013,06-23-2013,0
+CDISCPILOT01,DS,705-1431,R334,Protocol Completed,Completed,Disposition Event,2,Week 26,12-19-2013,12-19-2013,179
+CDISCPILOT01,DS,705-1431,R335,NA,Final Lab Visit,Disposition Event,3,Week 26,12-19-2013,12-19-2013,179
+CDISCPILOT01,DS,706-1041,R336,Randomized,Randomized,Protocol Milestone,1,Baseline,12-31-2013,12-31-2013,0
+CDISCPILOT01,DS,706-1041,R337,Protocol Completed,Completed,Disposition Event,2,Week 26,07-29-2014,07-29-2014,210
+CDISCPILOT01,DS,706-1041,R338,NA,Final Lab Visit,Disposition Event,3,Week 26,07-29-2014,07-29-2014,210
+CDISCPILOT01,DS,706-1049,R339,Randomized,Randomized,Protocol Milestone,1,Baseline,05-14-2013,05-14-2013,0
+CDISCPILOT01,DS,706-1049,R340,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,06-25-2013,06-25-2013,42
+CDISCPILOT01,DS,706-1049,R341,NA,Final Lab Visit,Disposition Event,3,Week 6,06-25-2013,06-25-2013,42
+CDISCPILOT01,DS,706-1049,R342,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,11-26-2013,11-26-2013,196
+CDISCPILOT01,DS,706-1384,R343,Randomized,Randomized,Protocol Milestone,1,Baseline,09-15-2012,09-15-2012,0
+CDISCPILOT01,DS,706-1384,R344,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,09-29-2012,09-29-2012,14
+CDISCPILOT01,DS,706-1384,R345,NA,Final Lab Visit,Disposition Event,3,Week 2,09-29-2012,09-29-2012,14
+CDISCPILOT01,DS,706-1384,R346,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,06-22-2013,06-22-2013,280
+CDISCPILOT01,DS,707-1037,R347,Randomized,Randomized,Protocol Milestone,1,Baseline,12-20-2013,12-20-2013,0
+CDISCPILOT01,DS,707-1037,R348,Withdraws Consent,Withdrawal by Subject,Disposition Event,1.1,Week 2,01-08-2014,01-08-2014,19
+CDISCPILOT01,DS,707-1037,R349,NA,Final Lab Visit,Disposition Event,3,Week 2,01-08-2014,01-08-2014,19
+CDISCPILOT01,DS,707-1206,R350,Randomized,Randomized,Protocol Milestone,1,Baseline,10-28-2013,10-28-2013,0
+CDISCPILOT01,DS,707-1206,R351,Protocol Completed,Completed,Disposition Event,2,Week 26,04-27-2014,04-27-2014,181
+CDISCPILOT01,DS,707-1206,R352,NA,Final Lab Visit,Disposition Event,3,Week 26,04-27-2014,04-27-2014,181
+CDISCPILOT01,DS,707-1276,R353,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,10-12-2012,10-12-2012,0
+CDISCPILOT01,DS,707-1430,R354,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-14-2014,02-14-2014,0
+CDISCPILOT01,DS,707-1434,R355,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,07-25-2013,07-25-2013,0
+CDISCPILOT01,DS,708-1013,R356,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,10-13-2012,10-13-2012,0
+CDISCPILOT01,DS,708-1019,R357,Randomized,Randomized,Protocol Milestone,1,Baseline,12-20-2013,12-20-2013,0
+CDISCPILOT01,DS,708-1019,R358,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,01-23-2014,01-23-2014,34
+CDISCPILOT01,DS,708-1019,R359,NA,Final Lab Visit,Disposition Event,3,Week 2,01-23-2014,01-23-2014,34
+CDISCPILOT01,DS,708-1032,R360,Randomized,Randomized,Protocol Milestone,1,Baseline,02-09-2013,02-09-2013,0
+CDISCPILOT01,DS,708-1032,R361,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,03-09-2013,03-09-2013,28
+CDISCPILOT01,DS,708-1032,R362,NA,Final Lab Visit,Disposition Event,3,Week 4,03-09-2013,03-09-2013,28
+CDISCPILOT01,DS,708-1054,R363,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-14-2014,02-14-2014,0
+CDISCPILOT01,DS,708-1067,R364,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-07-2013,02-07-2013,0
+CDISCPILOT01,DS,708-1084,R365,Randomized,Randomized,Protocol Milestone,1,Baseline,05-09-2013,05-09-2013,0
+CDISCPILOT01,DS,708-1084,R366,Protocol Completed,Completed,Disposition Event,2,Week 26,11-11-2013,11-11-2013,186
+CDISCPILOT01,DS,708-1084,R367,NA,Final Lab Visit,Disposition Event,3,Week 26,11-11-2013,11-11-2013,186
+CDISCPILOT01,DS,708-1087,R368,Randomized,Randomized,Protocol Milestone,1,Baseline,10-22-2012,10-22-2012,0
+CDISCPILOT01,DS,708-1087,R369,Protocol Completed,Completed,Disposition Event,2,Week 26,04-28-2013,04-28-2013,188
+CDISCPILOT01,DS,708-1087,R370,NA,Final Lab Visit,Disposition Event,3,Week 26,04-28-2013,04-28-2013,188
+CDISCPILOT01,DS,708-1104,R371,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,01-23-2014,01-23-2014,0
+CDISCPILOT01,DS,708-1158,R372,Randomized,Randomized,Protocol Milestone,1,Baseline,02-08-2014,02-08-2014,0
+CDISCPILOT01,DS,708-1158,R373,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,03-22-2014,03-22-2014,42
+CDISCPILOT01,DS,708-1158,R374,NA,Final Lab Visit,Disposition Event,3,Week 6,03-22-2014,03-22-2014,42
+CDISCPILOT01,DS,708-1171,R375,Randomized,Randomized,Protocol Milestone,1,Baseline,12-06-2012,12-06-2012,0
+CDISCPILOT01,DS,708-1171,R376,NA,Final Lab Visit,Disposition Event,3,Week 26,06-03-2013,06-03-2013,179
+CDISCPILOT01,DS,708-1171,R377,Protocol Completed,Completed,Disposition Event,2,Week 26,06-04-2013,06-04-2013,180
+CDISCPILOT01,DS,708-1178,R378,Randomized,Randomized,Protocol Milestone,1,Baseline,12-29-2013,12-29-2013,0
+CDISCPILOT01,DS,708-1178,R379,Dr Put Pt on an Excluded Medication,Physician Decision,Disposition Event,1.1,Week 12,04-06-2014,04-06-2014,98
+CDISCPILOT01,DS,708-1178,R380,NA,Final Lab Visit,Disposition Event,3,Week 12,04-06-2014,04-06-2014,98
+CDISCPILOT01,DS,708-1184,R381,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,01-14-2013,01-14-2013,0
+CDISCPILOT01,DS,708-1213,R382,Randomized,Randomized,Protocol Milestone,1,Baseline,02-09-2013,02-09-2013,0
+CDISCPILOT01,DS,708-1213,R383,NA,Final Lab Visit,Disposition Event,3,Week 2,02-22-2013,02-22-2013,13
+CDISCPILOT01,DS,708-1213,R384,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,02-26-2013,02-26-2013,17
+CDISCPILOT01,DS,708-1216,R385,Randomized,Randomized,Protocol Milestone,1,Baseline,10-24-2012,10-24-2012,0
+CDISCPILOT01,DS,708-1216,R386,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,12-06-2012,12-06-2012,43
+CDISCPILOT01,DS,708-1216,R387,NA,Final Lab Visit,Disposition Event,3,Week 6,12-06-2012,12-06-2012,43
+CDISCPILOT01,DS,708-1236,R388,NA,Final Lab Visit,Disposition Event,3,Unscheduled 1.1,09-19-2013,09-19-2013,0
+CDISCPILOT01,DS,708-1236,R389,Randomized,Randomized,Protocol Milestone,1,Baseline,09-21-2013,09-21-2013,2
+CDISCPILOT01,DS,708-1236,R390,Patient Withdrew Consent,Withdrawal by Subject,Disposition Event,1.1,Week 2,09-26-2013,09-26-2013,7
+CDISCPILOT01,DS,708-1242,R391,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,08-13-2012,08-13-2012,0
+CDISCPILOT01,DS,708-1253,R392,Randomized,Randomized,Protocol Milestone,1,Baseline,05-07-2013,05-07-2013,0
+CDISCPILOT01,DS,708-1253,R393,NA,Final Lab Visit,Disposition Event,3,Week 26,11-04-2013,11-04-2013,181
+CDISCPILOT01,DS,708-1253,R394,Protocol Completed,Completed,Disposition Event,2,Week 26,11-05-2013,11-05-2013,182
+CDISCPILOT01,DS,708-1272,R395,Randomized,Randomized,Protocol Milestone,1,Baseline,02-06-2013,02-06-2013,0
+CDISCPILOT01,DS,708-1272,R396,Patch Discomfort,Withdrawal by Subject,Disposition Event,1.1,Week 8,04-04-2013,04-04-2013,57
+CDISCPILOT01,DS,708-1272,R397,NA,Final Lab Visit,Disposition Event,3,Week 8,04-04-2013,04-04-2013,57
+CDISCPILOT01,DS,708-1286,R398,Randomized,Randomized,Protocol Milestone,1,Baseline,09-10-2013,09-10-2013,0
+CDISCPILOT01,DS,708-1286,R399,Protocol Completed,Completed,Disposition Event,2,Week 26,03-08-2014,03-08-2014,179
+CDISCPILOT01,DS,708-1286,R400,NA,Final Lab Visit,Disposition Event,3,Week 26,03-08-2014,03-08-2014,179
+CDISCPILOT01,DS,708-1296,R401,Randomized,Randomized,Protocol Milestone,1,Baseline,06-14-2013,06-14-2013,0
+CDISCPILOT01,DS,708-1296,R402,Protocol Completed,Completed,Disposition Event,2,Week 26,12-12-2013,12-12-2013,181
+CDISCPILOT01,DS,708-1296,R403,NA,Final Lab Visit,Disposition Event,3,Week 26,12-12-2013,12-12-2013,181
+CDISCPILOT01,DS,708-1297,R404,Randomized,Randomized,Protocol Milestone,1,Baseline,01-25-2013,01-25-2013,0
+CDISCPILOT01,DS,708-1297,R405,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,05-08-2013,05-08-2013,103
+CDISCPILOT01,DS,708-1297,R406,NA,Final Lab Visit,Disposition Event,3,Week 16,05-08-2013,05-08-2013,103
+CDISCPILOT01,DS,708-1316,R407,Randomized,Randomized,Protocol Milestone,1,Baseline,08-23-2013,08-23-2013,0
+CDISCPILOT01,DS,708-1316,R408,Protocol Completed,Completed,Disposition Event,2,Week 26,03-01-2014,03-01-2014,190
+CDISCPILOT01,DS,708-1316,R409,NA,Final Lab Visit,Disposition Event,3,Week 26,03-01-2014,03-01-2014,190
+CDISCPILOT01,DS,708-1336,R410,Randomized,Randomized,Protocol Milestone,1,Baseline,12-07-2012,12-07-2012,0
+CDISCPILOT01,DS,708-1336,R411,Protocol Completed,Completed,Disposition Event,2,Week 26,06-05-2013,06-05-2013,180
+CDISCPILOT01,DS,708-1336,R412,NA,Final Lab Visit,Disposition Event,3,Week 26,06-05-2013,06-05-2013,180
+CDISCPILOT01,DS,708-1342,R413,Randomized,Randomized,Protocol Milestone,1,Baseline,12-29-2012,12-29-2012,0
+CDISCPILOT01,DS,708-1342,R414,Protocol Completed,Completed,Disposition Event,2,Week 26,06-28-2013,06-28-2013,181
+CDISCPILOT01,DS,708-1342,R415,NA,Final Lab Visit,Disposition Event,3,Week 26,06-28-2013,06-28-2013,181
+CDISCPILOT01,DS,708-1347,R416,Randomized,Randomized,Protocol Milestone,1,Baseline,04-20-2013,04-20-2013,0
+CDISCPILOT01,DS,708-1347,R417,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,06-18-2013,06-18-2013,59
+CDISCPILOT01,DS,708-1347,R418,NA,Final Lab Visit,Disposition Event,3,Week 12,06-18-2013,06-18-2013,59
+CDISCPILOT01,DS,708-1348,R419,Randomized,Randomized,Protocol Milestone,1,Baseline,08-05-2013,08-05-2013,0
+CDISCPILOT01,DS,708-1348,R420,Protocol Completed,Completed,Disposition Event,2,Week 26,02-13-2014,02-13-2014,192
+CDISCPILOT01,DS,708-1348,R421,NA,Final Lab Visit,Disposition Event,3,Week 26,02-13-2014,02-13-2014,192
+CDISCPILOT01,DS,708-1352,R422,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,09-16-2013,09-16-2013,0
+CDISCPILOT01,DS,708-1353,R423,Randomized,Randomized,Protocol Milestone,1,Baseline,07-04-2013,07-04-2013,0
+CDISCPILOT01,DS,708-1353,R424,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,09-10-2013,09-10-2013,68
+CDISCPILOT01,DS,708-1353,R425,NA,Final Lab Visit,Disposition Event,3,Week 8,09-10-2013,09-10-2013,68
+CDISCPILOT01,DS,708-1372,R426,NA,Final Lab Visit,Disposition Event,3,Screening 1,04-03-2013,04-03-2013,0
+CDISCPILOT01,DS,708-1372,R427,Randomized,Randomized,Protocol Milestone,1,Baseline,04-12-2013,04-12-2013,9
+CDISCPILOT01,DS,708-1372,R428,Protocol Entry Criteria not Met,Protocol Violation,Disposition Event,1.1,Week 2,05-10-2013,05-10-2013,37
+CDISCPILOT01,DS,708-1378,R429,Randomized,Randomized,Protocol Milestone,1,Baseline,09-03-2013,09-03-2013,0
+CDISCPILOT01,DS,708-1378,R430,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 20,01-28-2014,01-28-2014,147
+CDISCPILOT01,DS,708-1378,R431,NA,Final Lab Visit,Disposition Event,3,Week 20,01-28-2014,01-28-2014,147
+CDISCPILOT01,DS,708-1406,R432,Randomized,Randomized,Protocol Milestone,1,Baseline,12-26-2013,12-26-2013,0
+CDISCPILOT01,DS,708-1406,R433,Protocol Completed,Completed,Disposition Event,2,Week 26,07-02-2014,07-02-2014,188
+CDISCPILOT01,DS,708-1406,R434,NA,Final Lab Visit,Disposition Event,3,Week 26,07-02-2014,07-02-2014,188
+CDISCPILOT01,DS,708-1428,R435,Randomized,Randomized,Protocol Milestone,1,Baseline,11-09-2013,11-09-2013,0
+CDISCPILOT01,DS,708-1428,R436,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,01-31-2014,01-31-2014,83
+CDISCPILOT01,DS,708-1428,R437,NA,Final Lab Visit,Disposition Event,3,Week 8,01-31-2014,01-31-2014,83
+CDISCPILOT01,DS,709-1001,R438,Randomized,Randomized,Protocol Milestone,1,Baseline,10-08-2013,10-08-2013,0
+CDISCPILOT01,DS,709-1001,R439,NA,Final Lab Visit,Disposition Event,3,Week 24,03-17-2014,03-17-2014,160
+CDISCPILOT01,DS,709-1001,R440,Protocol Completed,Completed,Disposition Event,2,Week 26,04-08-2014,04-08-2014,182
+CDISCPILOT01,DS,709-1007,R441,Randomized,Randomized,Protocol Milestone,1,Baseline,07-31-2012,07-31-2012,0
+CDISCPILOT01,DS,709-1007,R442,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,09-01-2012,09-01-2012,32
+CDISCPILOT01,DS,709-1007,R443,NA,Final Lab Visit,Disposition Event,3,Week 4,09-01-2012,09-01-2012,32
+CDISCPILOT01,DS,709-1020,R444,Randomized,Randomized,Protocol Milestone,1,Baseline,12-01-2012,12-01-2012,0
+CDISCPILOT01,DS,709-1020,R445,Protocol Completed,Completed,Disposition Event,2,Week 26,06-01-2013,06-01-2013,182
+CDISCPILOT01,DS,709-1020,R446,NA,Final Lab Visit,Disposition Event,3,Week 26,06-01-2013,06-01-2013,182
+CDISCPILOT01,DS,709-1029,R447,Randomized,Randomized,Protocol Milestone,1,Baseline,12-25-2012,12-25-2012,0
+CDISCPILOT01,DS,709-1029,R448,Protocol Completed,Completed,Disposition Event,2,Week 26,06-26-2013,06-26-2013,183
+CDISCPILOT01,DS,709-1029,R449,NA,Final Lab Visit,Disposition Event,3,Week 26,06-26-2013,06-26-2013,183
+CDISCPILOT01,DS,709-1081,R450,Randomized,Randomized,Protocol Milestone,1,Baseline,01-18-2014,01-18-2014,0
+CDISCPILOT01,DS,709-1081,R451,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,05-10-2014,05-10-2014,112
+CDISCPILOT01,DS,709-1081,R452,NA,Final Lab Visit,Disposition Event,3,Week 16,05-10-2014,05-10-2014,112
+CDISCPILOT01,DS,709-1088,R453,Randomized,Randomized,Protocol Milestone,1,Baseline,04-12-2014,04-12-2014,0
+CDISCPILOT01,DS,709-1088,R454,Protocol Completed,Completed,Disposition Event,2,Week 26,10-09-2014,10-09-2014,180
+CDISCPILOT01,DS,709-1088,R455,NA,Final Lab Visit,Disposition Event,3,Week 26,10-09-2014,10-09-2014,180
+CDISCPILOT01,DS,709-1099,R456,Randomized,Randomized,Protocol Milestone,1,Baseline,10-25-2013,10-25-2013,0
+CDISCPILOT01,DS,709-1099,R457,Protocol Completed,Completed,Disposition Event,2,Week 26,04-25-2014,04-25-2014,182
+CDISCPILOT01,DS,709-1099,R458,NA,Final Lab Visit,Disposition Event,3,Week 26,04-25-2014,04-25-2014,182
+CDISCPILOT01,DS,709-1102,R459,Randomized,Randomized,Protocol Milestone,1,Baseline,01-15-2013,01-15-2013,0
+CDISCPILOT01,DS,709-1102,R460,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,03-31-2013,03-31-2013,75
+CDISCPILOT01,DS,709-1102,R461,NA,Final Lab Visit,Disposition Event,3,Week 12,03-31-2013,03-31-2013,75
+CDISCPILOT01,DS,709-1168,R462,Randomized,Randomized,Protocol Milestone,1,Baseline,08-02-2013,08-02-2013,0
+CDISCPILOT01,DS,709-1168,R463,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,09-27-2013,09-27-2013,56
+CDISCPILOT01,DS,709-1168,R464,NA,Final Lab Visit,Disposition Event,3,Week 8,09-27-2013,09-27-2013,56
+CDISCPILOT01,DS,709-1217,R465,Randomized,Randomized,Protocol Milestone,1,Baseline,03-04-2013,03-04-2013,0
+CDISCPILOT01,DS,709-1217,R466,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,06-25-2013,06-25-2013,113
+CDISCPILOT01,DS,709-1217,R467,NA,Final Lab Visit,Disposition Event,3,Week 16,06-25-2013,06-25-2013,113
+CDISCPILOT01,DS,709-1224,R468,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-18-2013,11-18-2013,0
+CDISCPILOT01,DS,709-1237,R469,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,01-17-2014,01-17-2014,0
+CDISCPILOT01,DS,709-1238,R470,Randomized,Randomized,Protocol Milestone,1,Baseline,05-15-2013,05-15-2013,0
+CDISCPILOT01,DS,709-1238,R471,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,08-07-2013,08-07-2013,84
+CDISCPILOT01,DS,709-1238,R472,NA,Final Lab Visit,Disposition Event,3,Week 12,08-07-2013,08-07-2013,84
+CDISCPILOT01,DS,709-1259,R473,Randomized,Randomized,Protocol Milestone,1,Baseline,01-26-2013,01-26-2013,0
+CDISCPILOT01,DS,709-1259,R474,"Lack of Efficacy, Patient Caregiver Perception",Lack of Efficacy,Disposition Event,1.1,Week 20,06-13-2013,06-13-2013,138
+CDISCPILOT01,DS,709-1259,R475,NA,Final Lab Visit,Disposition Event,3,Week 20,06-13-2013,06-13-2013,138
+CDISCPILOT01,DS,709-1285,R476,Randomized,Randomized,Protocol Milestone,1,Baseline,03-24-2013,03-24-2013,0
+CDISCPILOT01,DS,709-1285,R477,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 12,05-31-2013,05-31-2013,68
+CDISCPILOT01,DS,709-1285,R478,NA,Final Lab Visit,Disposition Event,3,Week 12,05-31-2013,05-31-2013,68
+CDISCPILOT01,DS,709-1301,R479,Randomized,Randomized,Protocol Milestone,1,Baseline,07-19-2013,07-19-2013,0
+CDISCPILOT01,DS,709-1301,R480,Protocol Completed,Completed,Disposition Event,2,Week 26,01-17-2014,01-17-2014,182
+CDISCPILOT01,DS,709-1301,R481,NA,Final Lab Visit,Disposition Event,3,Week 26,01-17-2014,01-17-2014,182
+CDISCPILOT01,DS,709-1306,R482,Randomized,Randomized,Protocol Milestone,1,Baseline,02-03-2014,02-03-2014,0
+CDISCPILOT01,DS,709-1306,R483,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,06-25-2014,06-25-2014,142
+CDISCPILOT01,DS,709-1306,R484,NA,Final Lab Visit,Disposition Event,3,Week 20,06-25-2014,06-25-2014,142
+CDISCPILOT01,DS,709-1309,R485,Randomized,Randomized,Protocol Milestone,1,Baseline,06-19-2013,06-19-2013,0
+CDISCPILOT01,DS,709-1309,R486,Protocol Completed,Completed,Disposition Event,2,Week 26,12-19-2013,12-19-2013,183
+CDISCPILOT01,DS,709-1309,R487,NA,Final Lab Visit,Disposition Event,3,Week 26,12-19-2013,12-19-2013,183
+CDISCPILOT01,DS,709-1312,R488,Randomized,Randomized,Protocol Milestone,1,Baseline,04-20-2014,04-20-2014,0
+CDISCPILOT01,DS,709-1312,R489,Protocol Completed,Completed,Disposition Event,2,Week 26,10-19-2014,10-19-2014,182
+CDISCPILOT01,DS,709-1312,R490,NA,Final Lab Visit,Disposition Event,3,Week 26,10-19-2014,10-19-2014,182
+CDISCPILOT01,DS,709-1326,R491,Randomized,Randomized,Protocol Milestone,1,Baseline,04-05-2013,04-05-2013,0
+CDISCPILOT01,DS,709-1326,R492,Protocol Completed,Completed,Disposition Event,2,Week 26,10-02-2013,10-02-2013,180
+CDISCPILOT01,DS,709-1326,R493,NA,Final Lab Visit,Disposition Event,3,Week 26,10-02-2013,10-02-2013,180
+CDISCPILOT01,DS,709-1329,R494,Randomized,Randomized,Protocol Milestone,1,Baseline,08-15-2013,08-15-2013,0
+CDISCPILOT01,DS,709-1329,R495,Caregiver Burden,Withdrawal by Subject,Disposition Event,1.1,Week 2,08-29-2013,08-29-2013,14
+CDISCPILOT01,DS,709-1329,R496,NA,Final Lab Visit,Disposition Event,3,Week 2,08-29-2013,08-29-2013,14
+CDISCPILOT01,DS,709-1339,R497,Randomized,Randomized,Protocol Milestone,1,Baseline,12-23-2012,12-23-2012,0
+CDISCPILOT01,DS,709-1339,R498,Protocol Completed,Completed,Disposition Event,2,Week 26,06-24-2013,06-24-2013,183
+CDISCPILOT01,DS,709-1339,R499,NA,Final Lab Visit,Disposition Event,3,Week 26,06-24-2013,06-24-2013,183
+CDISCPILOT01,DS,709-1424,R500,Randomized,Randomized,Protocol Milestone,1,Baseline,03-03-2013,03-03-2013,0
+CDISCPILOT01,DS,709-1424,R501,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,03-08-2013,03-08-2013,5
+CDISCPILOT01,DS,709-1424,R502,NA,Final Lab Visit,Disposition Event,3,Unscheduled 4.1,03-17-2013,03-17-2013,14
+CDISCPILOT01,DS,710-1002,R503,Randomized,Randomized,Protocol Milestone,1,Baseline,01-14-2014,01-14-2014,0
+CDISCPILOT01,DS,710-1002,R504,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,01-18-2014,01-18-2014,4
+CDISCPILOT01,DS,710-1002,R505,NA,Final Lab Visit,Disposition Event,3,Week 2,01-18-2014,01-18-2014,4
+CDISCPILOT01,DS,710-1006,R506,Randomized,Randomized,Protocol Milestone,1,Baseline,02-10-2013,02-10-2013,0
+CDISCPILOT01,DS,710-1006,R507,Protocol Completed,Completed,Disposition Event,2,Week 26,08-10-2013,08-10-2013,181
+CDISCPILOT01,DS,710-1006,R508,NA,Final Lab Visit,Disposition Event,3,Week 26,08-10-2013,08-10-2013,181
+CDISCPILOT01,DS,710-1021,R509,Randomized,Randomized,Protocol Milestone,1,Baseline,09-27-2013,09-27-2013,0
+CDISCPILOT01,DS,710-1021,R510,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,11-12-2013,11-12-2013,46
+CDISCPILOT01,DS,710-1021,R511,NA,Final Lab Visit,Disposition Event,3,Week 6,11-12-2013,11-12-2013,46
+CDISCPILOT01,DS,710-1027,R512,Randomized,Randomized,Protocol Milestone,1,Baseline,02-28-2014,02-28-2014,0
+CDISCPILOT01,DS,710-1027,R513,Protocol Completed,Completed,Disposition Event,2,Week 26,08-29-2014,08-29-2014,182
+CDISCPILOT01,DS,710-1027,R514,NA,Final Lab Visit,Disposition Event,3,Week 26,08-29-2014,08-29-2014,182
+CDISCPILOT01,DS,710-1045,R515,Randomized,Randomized,Protocol Milestone,1,Baseline,06-03-2013,06-03-2013,0
+CDISCPILOT01,DS,710-1045,R516,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,08-17-2013,08-17-2013,75
+CDISCPILOT01,DS,710-1045,R517,NA,Final Lab Visit,Disposition Event,3,Week 12,08-17-2013,08-17-2013,75
+CDISCPILOT01,DS,710-1053,R518,Randomized,Randomized,Protocol Milestone,1,Baseline,12-26-2012,12-26-2012,0
+CDISCPILOT01,DS,710-1053,R519,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,02-15-2013,02-15-2013,51
+CDISCPILOT01,DS,710-1053,R520,NA,Final Lab Visit,Disposition Event,3,Unscheduled 8.2,02-26-2013,02-26-2013,62
+CDISCPILOT01,DS,710-1060,R521,Randomized,Randomized,Protocol Milestone,1,Baseline,01-01-2013,01-01-2013,0
+CDISCPILOT01,DS,710-1060,R522,Protocol Completed,Completed,Disposition Event,2,Week 26,07-05-2013,07-05-2013,185
+CDISCPILOT01,DS,710-1060,R523,NA,Final Lab Visit,Disposition Event,3,Week 26,07-05-2013,07-05-2013,185
+CDISCPILOT01,DS,710-1070,R524,Randomized,Randomized,Protocol Milestone,1,Baseline,09-08-2012,09-08-2012,0
+CDISCPILOT01,DS,710-1070,R525,NA,Final Lab Visit,Disposition Event,3,Week 16,12-28-2012,12-28-2012,111
+CDISCPILOT01,DS,710-1070,R526,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,02-23-2013,02-23-2013,168
+CDISCPILOT01,DS,710-1077,R527,Randomized,Randomized,Protocol Milestone,1,Baseline,11-17-2013,11-17-2013,0
+CDISCPILOT01,DS,710-1077,R528,Protocol Completed,Completed,Disposition Event,2,Week 26,05-18-2014,05-18-2014,182
+CDISCPILOT01,DS,710-1077,R529,NA,Final Lab Visit,Disposition Event,3,Week 26,05-18-2014,05-18-2014,182
+CDISCPILOT01,DS,710-1078,R530,Randomized,Randomized,Protocol Milestone,1,Baseline,09-17-2013,09-17-2013,0
+CDISCPILOT01,DS,710-1078,R531,Protocol Completed,Completed,Disposition Event,2,Week 26,03-23-2014,03-23-2014,187
+CDISCPILOT01,DS,710-1078,R532,NA,Final Lab Visit,Disposition Event,3,Week 26,03-23-2014,03-23-2014,187
+CDISCPILOT01,DS,710-1083,R533,NA,Final Lab Visit,Disposition Event,3,Screening 1,07-09-2013,07-09-2013,0
+CDISCPILOT01,DS,710-1083,R534,Randomized,Randomized,Protocol Milestone,1,Baseline,07-22-2013,07-22-2013,13
+CDISCPILOT01,DS,710-1083,R535,Death,Death,Disposition Event,1.1,Week 2,08-03-2013,08-02-2013,25
+CDISCPILOT01,DS,710-1129,R536,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,03-05-2013,03-05-2013,0
+CDISCPILOT01,DS,710-1137,R537,Randomized,Randomized,Protocol Milestone,1,Baseline,10-11-2013,10-11-2013,0
+CDISCPILOT01,DS,710-1137,R538,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,11-13-2013,11-13-2013,33
+CDISCPILOT01,DS,710-1137,R539,NA,Final Lab Visit,Disposition Event,3,Week 6,11-13-2013,11-13-2013,33
+CDISCPILOT01,DS,710-1142,R540,Randomized,Randomized,Protocol Milestone,1,Baseline,10-02-2012,10-02-2012,0
+CDISCPILOT01,DS,710-1142,R541,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,10-23-2012,10-23-2012,21
+CDISCPILOT01,DS,710-1142,R542,NA,Final Lab Visit,Disposition Event,3,Week 4,10-23-2012,10-23-2012,21
+CDISCPILOT01,DS,710-1149,R543,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-16-2013,11-16-2013,0
+CDISCPILOT01,DS,710-1154,R544,Randomized,Randomized,Protocol Milestone,1,Baseline,03-29-2014,03-29-2014,0
+CDISCPILOT01,DS,710-1154,R545,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,05-09-2014,05-09-2014,41
+CDISCPILOT01,DS,710-1154,R546,NA,Final Lab Visit,Disposition Event,3,Week 6,05-09-2014,05-09-2014,41
+CDISCPILOT01,DS,710-1166,R547,Randomized,Randomized,Protocol Milestone,1,Baseline,11-30-2012,11-30-2012,0
+CDISCPILOT01,DS,710-1166,R548,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,03-30-2013,03-30-2013,120
+CDISCPILOT01,DS,710-1166,R549,NA,Final Lab Visit,Disposition Event,3,Week 16,03-30-2013,03-30-2013,120
+CDISCPILOT01,DS,710-1183,R550,Randomized,Randomized,Protocol Milestone,1,Baseline,11-16-2013,11-16-2013,0
+CDISCPILOT01,DS,710-1183,R551,Protocol Completed,Completed,Disposition Event,2,Week 26,05-17-2014,05-17-2014,182
+CDISCPILOT01,DS,710-1183,R552,NA,Final Lab Visit,Disposition Event,3,Week 26,05-17-2014,05-17-2014,182
+CDISCPILOT01,DS,710-1187,R553,Randomized,Randomized,Protocol Milestone,1,Baseline,11-10-2012,11-10-2012,0
+CDISCPILOT01,DS,710-1187,R554,Protocol Completed,Completed,Disposition Event,2,Week 26,05-12-2013,05-12-2013,183
+CDISCPILOT01,DS,710-1187,R555,NA,Final Lab Visit,Disposition Event,3,Week 26,05-12-2013,05-12-2013,183
+CDISCPILOT01,DS,710-1235,R556,Randomized,Randomized,Protocol Milestone,1,Baseline,09-26-2012,09-26-2012,0
+CDISCPILOT01,DS,710-1235,R557,Protocol Completed,Completed,Disposition Event,2,Week 26,03-27-2013,03-27-2013,182
+CDISCPILOT01,DS,710-1235,R558,NA,Final Lab Visit,Disposition Event,3,Week 26,03-27-2013,03-27-2013,182
+CDISCPILOT01,DS,710-1249,R559,Randomized,Randomized,Protocol Milestone,1,Baseline,12-28-2013,12-28-2013,0
+CDISCPILOT01,DS,710-1249,R560,Protocol Completed,Completed,Disposition Event,2,Week 26,06-28-2014,06-28-2014,182
+CDISCPILOT01,DS,710-1249,R561,NA,Final Lab Visit,Disposition Event,3,Week 26,06-28-2014,06-28-2014,182
+CDISCPILOT01,DS,710-1257,R562,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-29-2013,11-29-2013,0
+CDISCPILOT01,DS,710-1264,R563,Randomized,Randomized,Protocol Milestone,1,Baseline,06-13-2013,06-13-2013,0
+CDISCPILOT01,DS,710-1264,R564,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,10-12-2013,10-12-2013,121
+CDISCPILOT01,DS,710-1264,R565,NA,Final Lab Visit,Disposition Event,3,Week 20,10-12-2013,10-12-2013,121
+CDISCPILOT01,DS,710-1270,R566,Randomized,Randomized,Protocol Milestone,1,Baseline,02-12-2014,02-12-2014,0
+CDISCPILOT01,DS,710-1270,R567,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,03-01-2014,03-01-2014,17
+CDISCPILOT01,DS,710-1270,R568,NA,Final Lab Visit,Disposition Event,3,Week 2,03-01-2014,03-01-2014,17
+CDISCPILOT01,DS,710-1271,R569,Randomized,Randomized,Protocol Milestone,1,Baseline,09-27-2012,09-27-2012,0
+CDISCPILOT01,DS,710-1271,R570,NA,Final Lab Visit,Disposition Event,3,Week 6,11-08-2012,11-08-2012,42
+CDISCPILOT01,DS,710-1271,R571,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,12-02-2012,12-02-2012,66
+CDISCPILOT01,DS,710-1278,R572,Randomized,Randomized,Protocol Milestone,1,Baseline,12-24-2012,12-24-2012,0
+CDISCPILOT01,DS,710-1278,R573,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,03-03-2013,03-03-2013,69
+CDISCPILOT01,DS,710-1278,R574,NA,Final Lab Visit,Disposition Event,3,Week 12,03-07-2013,03-07-2013,73
+CDISCPILOT01,DS,710-1300,R575,Randomized,Randomized,Protocol Milestone,1,Baseline,12-15-2012,12-15-2012,0
+CDISCPILOT01,DS,710-1300,R576,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,02-19-2013,02-19-2013,66
+CDISCPILOT01,DS,710-1300,R577,NA,Final Lab Visit,Disposition Event,3,Week 12,02-19-2013,02-19-2013,66
+CDISCPILOT01,DS,710-1314,R578,Randomized,Randomized,Protocol Milestone,1,Baseline,04-24-2013,04-24-2013,0
+CDISCPILOT01,DS,710-1314,R579,NA,Final Lab Visit,Disposition Event,3,Week 4,05-23-2013,05-23-2013,29
+CDISCPILOT01,DS,710-1314,R580,Patient Refuses to Continue,Withdrawal by Subject,Disposition Event,1.1,Ambul Ecg Removal,05-25-2013,05-25-2013,31
+CDISCPILOT01,DS,710-1315,R581,Randomized,Randomized,Protocol Milestone,1,Baseline,02-27-2013,02-27-2013,0
+CDISCPILOT01,DS,710-1315,R582,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,07-16-2013,07-16-2013,139
+CDISCPILOT01,DS,710-1315,R583,NA,Final Lab Visit,Disposition Event,3,Week 20,07-16-2013,07-16-2013,139
+CDISCPILOT01,DS,710-1337,R584,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-30-2013,12-30-2013,0
+CDISCPILOT01,DS,710-1354,R585,Randomized,Randomized,Protocol Milestone,1,Baseline,11-11-2012,11-11-2012,0
+CDISCPILOT01,DS,710-1354,R586,Protocol Completed,Completed,Disposition Event,2,Week 26,05-01-2013,05-01-2013,171
+CDISCPILOT01,DS,710-1354,R587,NA,Final Lab Visit,Disposition Event,3,Week 26,05-01-2013,05-01-2013,171
+CDISCPILOT01,DS,710-1358,R588,Randomized,Randomized,Protocol Milestone,1,Baseline,09-17-2012,09-17-2012,0
+CDISCPILOT01,DS,710-1358,R589,NA,Final Lab Visit,Disposition Event,3,Week 20,02-06-2013,02-06-2013,142
+CDISCPILOT01,DS,710-1358,R590,Caregiver Was Hospitalized;see Comments,Withdrawal by Subject,Disposition Event,1.1,Week 24,03-12-2013,03-12-2013,176
+CDISCPILOT01,DS,710-1368,R591,Randomized,Randomized,Protocol Milestone,1,Baseline,10-23-2013,10-23-2013,0
+CDISCPILOT01,DS,710-1368,R592,Protocol Completed,Completed,Disposition Event,2,Week 26,04-24-2014,04-24-2014,183
+CDISCPILOT01,DS,710-1368,R593,NA,Final Lab Visit,Disposition Event,3,Week 26,04-24-2014,04-24-2014,183
+CDISCPILOT01,DS,710-1376,R594,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,04-21-2014,04-21-2014,0
+CDISCPILOT01,DS,710-1380,R595,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,06-02-2013,06-02-2013,0
+CDISCPILOT01,DS,710-1385,R596,Randomized,Randomized,Protocol Milestone,1,Baseline,10-29-2012,10-29-2012,0
+CDISCPILOT01,DS,710-1385,R597,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,02-18-2013,02-18-2013,112
+CDISCPILOT01,DS,710-1385,R598,NA,Final Lab Visit,Disposition Event,3,Week 16,02-18-2013,02-18-2013,112
+CDISCPILOT01,DS,710-1408,R599,Randomized,Randomized,Protocol Milestone,1,Baseline,01-05-2013,01-05-2013,0
+CDISCPILOT01,DS,710-1408,R600,Protocol Completed,Completed,Disposition Event,2,Week 26,07-12-2013,07-12-2013,188
+CDISCPILOT01,DS,710-1408,R601,NA,Final Lab Visit,Disposition Event,3,Week 26,07-12-2013,07-12-2013,188
+CDISCPILOT01,DS,710-1443,R602,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-13-2013,12-13-2013,0
+CDISCPILOT01,DS,711-1012,R603,Randomized,Randomized,Protocol Milestone,1,Baseline,04-03-2013,04-03-2013,0
+CDISCPILOT01,DS,711-1012,R604,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,05-02-2013,05-02-2013,29
+CDISCPILOT01,DS,711-1012,R605,NA,Final Lab Visit,Disposition Event,3,Week 4,05-02-2013,05-02-2013,29
+CDISCPILOT01,DS,711-1012,R606,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,09-18-2013,09-18-2013,168
+CDISCPILOT01,DS,711-1022,R607,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,03-17-2014,03-17-2014,0
+CDISCPILOT01,DS,711-1036,R608,Randomized,Randomized,Protocol Milestone,1,Baseline,07-29-2012,07-29-2012,0
+CDISCPILOT01,DS,711-1036,R609,Protocol Completed,Completed,Disposition Event,2,Week 26,02-10-2013,02-10-2013,196
+CDISCPILOT01,DS,711-1036,R610,NA,Final Lab Visit,Disposition Event,3,Week 26,02-10-2013,02-10-2013,196
+CDISCPILOT01,DS,711-1143,R611,Randomized,Randomized,Protocol Milestone,1,Baseline,04-03-2013,04-03-2013,0
+CDISCPILOT01,DS,711-1143,R612,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,06-01-2013,06-01-2013,59
+CDISCPILOT01,DS,711-1143,R613,NA,Final Lab Visit,Disposition Event,3,Week 12,06-01-2013,06-01-2013,59
+CDISCPILOT01,DS,711-1143,R614,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,09-22-2013,09-22-2013,172
+CDISCPILOT01,DS,711-1163,R615,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-08-2012,11-08-2012,0
+CDISCPILOT01,DS,711-1173,R616,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,10-04-2012,10-04-2012,0
+CDISCPILOT01,DS,711-1226,R617,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,10-24-2013,10-24-2013,0
+CDISCPILOT01,DS,711-1251,R618,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-28-2014,02-28-2014,0
+CDISCPILOT01,DS,711-1283,R619,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,03-27-2014,03-27-2014,0
+CDISCPILOT01,DS,711-1284,R620,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,08-05-2013,08-05-2013,0
+CDISCPILOT01,DS,711-1290,R621,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,12-20-2013,12-20-2013,0
+CDISCPILOT01,DS,711-1433,R622,Randomized,Randomized,Protocol Milestone,1,Baseline,01-27-2013,01-27-2013,0
+CDISCPILOT01,DS,711-1433,R623,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,02-06-2013,02-06-2013,10
+CDISCPILOT01,DS,711-1433,R624,NA,Final Lab Visit,Disposition Event,3,Week 2,02-06-2013,02-06-2013,10
+CDISCPILOT01,DS,713-1043,R625,Randomized,Randomized,Protocol Milestone,1,Baseline,09-15-2013,09-15-2013,0
+CDISCPILOT01,DS,713-1043,R626,Protocol Completed,Completed,Disposition Event,2,Week 26,03-24-2014,03-24-2014,190
+CDISCPILOT01,DS,713-1043,R627,NA,Final Lab Visit,Disposition Event,3,Week 26,03-24-2014,03-24-2014,190
+CDISCPILOT01,DS,713-1073,R628,Randomized,Randomized,Protocol Milestone,1,Baseline,03-30-2014,03-30-2014,0
+CDISCPILOT01,DS,713-1073,R629,Protocol Completed,Completed,Disposition Event,2,Week 26,10-05-2014,10-05-2014,189
+CDISCPILOT01,DS,713-1073,R630,NA,Final Lab Visit,Disposition Event,3,Week 26,10-05-2014,10-05-2014,189
+CDISCPILOT01,DS,713-1106,R631,Randomized,Randomized,Protocol Milestone,1,Baseline,10-31-2012,10-31-2012,0
+CDISCPILOT01,DS,713-1106,R632,Protocol Completed,Completed,Disposition Event,2,Week 26,05-06-2013,05-06-2013,187
+CDISCPILOT01,DS,713-1106,R633,NA,Final Lab Visit,Disposition Event,3,Week 26,05-06-2013,05-06-2013,187
+CDISCPILOT01,DS,713-1141,R634,Randomized,Randomized,Protocol Milestone,1,Baseline,05-31-2013,05-31-2013,0
+CDISCPILOT01,DS,713-1141,R635,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,08-06-2013,08-06-2013,67
+CDISCPILOT01,DS,713-1141,R636,NA,Final Lab Visit,Disposition Event,3,Week 6,08-06-2013,08-06-2013,67
+CDISCPILOT01,DS,713-1179,R637,Randomized,Randomized,Protocol Milestone,1,Baseline,08-09-2013,08-09-2013,0
+CDISCPILOT01,DS,713-1179,R638,Protocol Completed,Completed,Disposition Event,2,Week 26,02-05-2014,02-05-2014,180
+CDISCPILOT01,DS,713-1179,R639,NA,Final Lab Visit,Disposition Event,3,Week 26,02-05-2014,02-05-2014,180
+CDISCPILOT01,DS,713-1209,R640,Randomized,Randomized,Protocol Milestone,1,Baseline,05-27-2013,05-27-2013,0
+CDISCPILOT01,DS,713-1209,R641,Protocol Completed,Completed,Disposition Event,2,Week 26,11-22-2013,11-22-2013,179
+CDISCPILOT01,DS,713-1209,R642,NA,Final Lab Visit,Disposition Event,3,Week 26,11-22-2013,11-22-2013,179
+CDISCPILOT01,DS,713-1256,R643,Randomized,Randomized,Protocol Milestone,1,Baseline,09-19-2012,09-19-2012,0
+CDISCPILOT01,DS,713-1256,R644,Protocol Completed,Completed,Disposition Event,2,Week 26,03-25-2013,03-25-2013,187
+CDISCPILOT01,DS,713-1256,R645,NA,Final Lab Visit,Disposition Event,3,Week 26,03-25-2013,03-25-2013,187
+CDISCPILOT01,DS,713-1269,R646,Randomized,Randomized,Protocol Milestone,1,Baseline,01-27-2014,01-27-2014,0
+CDISCPILOT01,DS,713-1269,R647,Protocol Completed,Completed,Disposition Event,2,Week 26,07-28-2014,07-28-2014,182
+CDISCPILOT01,DS,713-1269,R648,NA,Final Lab Visit,Disposition Event,3,Week 26,07-28-2014,07-28-2014,182
+CDISCPILOT01,DS,713-1448,R649,Randomized,Randomized,Protocol Milestone,1,Baseline,01-19-2014,01-19-2014,0
+CDISCPILOT01,DS,713-1448,R650,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,05-17-2014,05-17-2014,118
+CDISCPILOT01,DS,713-1448,R651,NA,Final Lab Visit,Disposition Event,3,Week 16,05-17-2014,05-17-2014,118
+CDISCPILOT01,DS,713-1448,R652,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,07-27-2014,07-27-2014,189
+CDISCPILOT01,DS,714-1035,R653,Randomized,Randomized,Protocol Milestone,1,Baseline,04-17-2014,04-17-2014,0
+CDISCPILOT01,DS,714-1035,R654,Protocol Completed,Completed,Disposition Event,2,Week 26,10-16-2014,10-16-2014,182
+CDISCPILOT01,DS,714-1035,R655,NA,Final Lab Visit,Disposition Event,3,Week 26,10-16-2014,10-16-2014,182
+CDISCPILOT01,DS,714-1068,R656,Randomized,Randomized,Protocol Milestone,1,Baseline,08-08-2013,08-08-2013,0
+CDISCPILOT01,DS,714-1068,R657,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,10-16-2013,10-16-2013,69
+CDISCPILOT01,DS,714-1068,R658,NA,Final Lab Visit,Disposition Event,3,Week 12,10-16-2013,10-16-2013,69
+CDISCPILOT01,DS,714-1195,R659,Randomized,Randomized,Protocol Milestone,1,Baseline,04-26-2013,04-26-2013,0
+CDISCPILOT01,DS,714-1195,R660,Protocol Completed,Completed,Disposition Event,2,Week 26,10-23-2013,10-23-2013,180
+CDISCPILOT01,DS,714-1195,R661,NA,Final Lab Visit,Disposition Event,3,Week 26,10-23-2013,10-23-2013,180
+CDISCPILOT01,DS,714-1288,R662,Randomized,Randomized,Protocol Milestone,1,Baseline,12-04-2013,12-04-2013,0
+CDISCPILOT01,DS,714-1288,R663,Protocol Completed,Completed,Disposition Event,2,Week 26,06-17-2014,06-17-2014,195
+CDISCPILOT01,DS,714-1288,R664,NA,Final Lab Visit,Disposition Event,3,Week 26,06-17-2014,06-17-2014,195
+CDISCPILOT01,DS,714-1375,R665,Randomized,Randomized,Protocol Milestone,1,Baseline,02-26-2013,02-26-2013,0
+CDISCPILOT01,DS,714-1375,R666,Protocol Completed,Completed,Disposition Event,2,Week 26,09-07-2013,09-07-2013,193
+CDISCPILOT01,DS,714-1375,R667,NA,Final Lab Visit,Disposition Event,3,Week 26,09-07-2013,09-07-2013,193
+CDISCPILOT01,DS,714-1425,R668,Randomized,Randomized,Protocol Milestone,1,Baseline,08-15-2013,08-15-2013,0
+CDISCPILOT01,DS,714-1425,R669,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 2,08-22-2013,08-22-2013,7
+CDISCPILOT01,DS,714-1425,R670,NA,Final Lab Visit,Disposition Event,3,Week 2,08-22-2013,08-22-2013,7
+CDISCPILOT01,DS,715-1085,R671,Randomized,Randomized,Protocol Milestone,1,Baseline,02-16-2013,02-16-2013,0
+CDISCPILOT01,DS,715-1085,R672,Protocol Completed,Completed,Disposition Event,2,Week 26,08-18-2013,08-18-2013,183
+CDISCPILOT01,DS,715-1085,R673,NA,Final Lab Visit,Disposition Event,3,Week 26,08-18-2013,08-18-2013,183
+CDISCPILOT01,DS,715-1107,R674,Randomized,Randomized,Protocol Milestone,1,Baseline,02-26-2013,02-26-2013,0
+CDISCPILOT01,DS,715-1107,R675,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,05-13-2013,05-13-2013,76
+CDISCPILOT01,DS,715-1107,R676,NA,Final Lab Visit,Disposition Event,3,Retrieval,08-14-2013,08-14-2013,169
+CDISCPILOT01,DS,715-1107,R677,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,08-14-2013,08-14-2013,169
+CDISCPILOT01,DS,715-1134,R678,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,04-17-2014,04-17-2014,0
+CDISCPILOT01,DS,715-1155,R679,Randomized,Randomized,Protocol Milestone,1,Baseline,12-13-2013,12-13-2013,0
+CDISCPILOT01,DS,715-1155,R680,NA,Final Lab Visit,Disposition Event,3,Week 4,01-10-2014,01-10-2014,28
+CDISCPILOT01,DS,715-1155,R681,Caregiver Withdrew from Study,Withdrawal by Subject,Disposition Event,1.1,Week 6,04-26-2014,04-26-2014,134
+CDISCPILOT01,DS,715-1207,R682,Randomized,Randomized,Protocol Milestone,1,Baseline,11-18-2012,11-18-2012,0
+CDISCPILOT01,DS,715-1207,R683,Protocol Completed,Completed,Disposition Event,2,Week 26,06-01-2013,06-01-2013,195
+CDISCPILOT01,DS,715-1207,R684,NA,Final Lab Visit,Disposition Event,3,Week 26,06-01-2013,06-01-2013,195
+CDISCPILOT01,DS,715-1225,R685,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,01-22-2013,01-22-2013,0
+CDISCPILOT01,DS,715-1319,R686,Randomized,Randomized,Protocol Milestone,1,Baseline,02-17-2013,02-17-2013,0
+CDISCPILOT01,DS,715-1319,R687,Too Much Trouble for Caregiver,Withdrawal by Subject,Disposition Event,1.1,Week 4,03-18-2013,03-18-2013,29
+CDISCPILOT01,DS,715-1319,R688,NA,Final Lab Visit,Disposition Event,3,Week 4,03-18-2013,03-18-2013,29
+CDISCPILOT01,DS,715-1321,R689,Randomized,Randomized,Protocol Milestone,1,Baseline,02-11-2014,02-11-2014,0
+CDISCPILOT01,DS,715-1321,R690,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,04-22-2014,04-22-2014,70
+CDISCPILOT01,DS,715-1321,R691,NA,Final Lab Visit,Disposition Event,3,Week 12,04-22-2014,04-22-2014,70
+CDISCPILOT01,DS,715-1333,R692,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,06-03-2013,06-03-2013,0
+CDISCPILOT01,DS,715-1397,R693,Randomized,Randomized,Protocol Milestone,1,Baseline,04-03-2013,04-03-2013,0
+CDISCPILOT01,DS,715-1397,R694,Protocol Completed,Completed,Disposition Event,2,Week 26,10-03-2013,10-03-2013,183
+CDISCPILOT01,DS,715-1397,R695,NA,Final Lab Visit,Disposition Event,3,Week 26,10-03-2013,10-03-2013,183
+CDISCPILOT01,DS,715-1405,R696,Randomized,Randomized,Protocol Milestone,1,Baseline,07-06-2013,07-06-2013,0
+CDISCPILOT01,DS,715-1405,R697,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,07-13-2013,07-13-2013,7
+CDISCPILOT01,DS,715-1405,R698,NA,Final Lab Visit,Disposition Event,3,Week 2,07-13-2013,07-13-2013,7
+CDISCPILOT01,DS,715-1405,R699,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,01-11-2014,01-11-2014,189
+CDISCPILOT01,DS,715-1407,R700,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,10-24-2012,10-24-2012,0
+CDISCPILOT01,DS,716-1003,R701,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,03-29-2014,03-29-2014,0
+CDISCPILOT01,DS,716-1024,R702,Randomized,Randomized,Protocol Milestone,1,Baseline,07-09-2012,07-09-2012,0
+CDISCPILOT01,DS,716-1024,R703,Protocol Completed,Completed,Disposition Event,2,Week 26,01-20-2013,01-20-2013,195
+CDISCPILOT01,DS,716-1024,R704,NA,Final Lab Visit,Disposition Event,3,Week 26,01-20-2013,01-20-2013,195
+CDISCPILOT01,DS,716-1026,R705,Randomized,Randomized,Protocol Milestone,1,Baseline,04-02-2014,04-02-2014,0
+CDISCPILOT01,DS,716-1026,R706,Protocol Completed,Completed,Disposition Event,2,Week 26,10-16-2014,10-16-2014,197
+CDISCPILOT01,DS,716-1026,R707,NA,Final Lab Visit,Disposition Event,3,Week 26,10-16-2014,10-16-2014,197
+CDISCPILOT01,DS,716-1030,R708,Randomized,Randomized,Protocol Milestone,1,Baseline,12-28-2013,12-28-2013,0
+CDISCPILOT01,DS,716-1030,R709,Pt Kept Removing Patches,Withdrawal by Subject,Disposition Event,1.1,Week 2,01-10-2014,01-10-2014,13
+CDISCPILOT01,DS,716-1030,R710,NA,Final Lab Visit,Disposition Event,3,Week 2,01-10-2014,01-10-2014,13
+CDISCPILOT01,DS,716-1044,R711,Randomized,Randomized,Protocol Milestone,1,Baseline,04-27-2013,04-27-2013,0
+CDISCPILOT01,DS,716-1044,R712,Protocol Completed,Completed,Disposition Event,2,Week 26,11-03-2013,11-03-2013,190
+CDISCPILOT01,DS,716-1044,R713,NA,Final Lab Visit,Disposition Event,3,Week 26,11-03-2013,11-03-2013,190
+CDISCPILOT01,DS,716-1061,R714,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,02-14-2014,02-14-2014,0
+CDISCPILOT01,DS,716-1063,R715,Randomized,Randomized,Protocol Milestone,1,Baseline,05-09-2013,05-09-2013,0
+CDISCPILOT01,DS,716-1063,R716,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,08-28-2013,08-28-2013,111
+CDISCPILOT01,DS,716-1063,R717,NA,Final Lab Visit,Disposition Event,3,Week 16,08-28-2013,08-28-2013,111
+CDISCPILOT01,DS,716-1063,R718,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,11-17-2013,11-17-2013,192
+CDISCPILOT01,DS,716-1071,R719,Randomized,Randomized,Protocol Milestone,1,Baseline,06-08-2013,06-08-2013,0
+CDISCPILOT01,DS,716-1071,R720,Adverse Event,Adverse Event,Disposition Event,1.1,Week 8,08-01-2013,08-01-2013,54
+CDISCPILOT01,DS,716-1071,R721,NA,Final Lab Visit,Disposition Event,3,Week 8,08-01-2013,08-01-2013,54
+CDISCPILOT01,DS,716-1071,R722,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,12-16-2013,12-16-2013,191
+CDISCPILOT01,DS,716-1094,R723,Randomized,Randomized,Protocol Milestone,1,Baseline,12-19-2012,12-19-2012,0
+CDISCPILOT01,DS,716-1094,R724,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,01-26-2013,01-26-2013,38
+CDISCPILOT01,DS,716-1094,R725,NA,Final Lab Visit,Disposition Event,3,Week 6,01-26-2013,01-26-2013,38
+CDISCPILOT01,DS,716-1094,R726,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,06-22-2013,06-22-2013,185
+CDISCPILOT01,DS,716-1103,R727,Randomized,Randomized,Protocol Milestone,1,Baseline,03-20-2014,03-20-2014,0
+CDISCPILOT01,DS,716-1103,R728,Protocol Completed,Completed,Disposition Event,2,Week 26,09-20-2014,09-20-2014,184
+CDISCPILOT01,DS,716-1103,R729,NA,Final Lab Visit,Disposition Event,3,Week 26,09-20-2014,09-20-2014,184
+CDISCPILOT01,DS,716-1108,R730,Randomized,Randomized,Protocol Milestone,1,Baseline,02-12-2013,02-12-2013,0
+CDISCPILOT01,DS,716-1108,R731,Protocol Completed,Completed,Disposition Event,2,Week 26,08-10-2013,08-10-2013,179
+CDISCPILOT01,DS,716-1108,R732,NA,Final Lab Visit,Disposition Event,3,Week 26,08-10-2013,08-10-2013,179
+CDISCPILOT01,DS,716-1151,R733,Randomized,Randomized,Protocol Milestone,1,Baseline,02-01-2013,02-01-2013,0
+CDISCPILOT01,DS,716-1151,R734,Adverse Event,Adverse Event,Disposition Event,1.1,Week 16,06-07-2013,06-07-2013,126
+CDISCPILOT01,DS,716-1151,R735,NA,Final Lab Visit,Disposition Event,3,Week 16,06-07-2013,06-07-2013,126
+CDISCPILOT01,DS,716-1151,R736,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,08-13-2013,08-13-2013,193
+CDISCPILOT01,DS,716-1157,R737,Randomized,Randomized,Protocol Milestone,1,Baseline,10-02-2013,10-02-2013,0
+CDISCPILOT01,DS,716-1157,R738,Protocol Completed,Completed,Disposition Event,2,Week 26,04-05-2014,04-05-2014,185
+CDISCPILOT01,DS,716-1157,R739,NA,Final Lab Visit,Disposition Event,3,Week 26,04-05-2014,04-05-2014,185
+CDISCPILOT01,DS,716-1160,R740,Randomized,Randomized,Protocol Milestone,1,Baseline,04-05-2013,04-05-2013,0
+CDISCPILOT01,DS,716-1160,R741,Protocol Completed,Completed,Disposition Event,2,Week 26,10-11-2013,10-11-2013,189
+CDISCPILOT01,DS,716-1160,R742,NA,Final Lab Visit,Disposition Event,3,Week 26,10-11-2013,10-11-2013,189
+CDISCPILOT01,DS,716-1167,R743,Randomized,Randomized,Protocol Milestone,1,Baseline,10-08-2012,10-08-2012,0
+CDISCPILOT01,DS,716-1167,R744,Protocol Completed,Completed,Disposition Event,2,Week 26,04-13-2013,04-13-2013,187
+CDISCPILOT01,DS,716-1167,R745,NA,Final Lab Visit,Disposition Event,3,Week 26,04-13-2013,04-13-2013,187
+CDISCPILOT01,DS,716-1177,R746,Randomized,Randomized,Protocol Milestone,1,Baseline,09-02-2014,09-02-2014,0
+CDISCPILOT01,DS,716-1177,R747,Protocol Completed,Completed,Disposition Event,2,Week 26,03-05-2015,03-05-2015,184
+CDISCPILOT01,DS,716-1177,R748,NA,Final Lab Visit,Disposition Event,3,Week 26,03-05-2015,03-05-2015,184
+CDISCPILOT01,DS,716-1189,R749,Randomized,Randomized,Protocol Milestone,1,Baseline,10-09-2012,10-09-2012,0
+CDISCPILOT01,DS,716-1189,R750,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,03-03-2013,03-03-2013,145
+CDISCPILOT01,DS,716-1189,R751,NA,Final Lab Visit,Disposition Event,3,Week 20,03-03-2013,03-03-2013,145
+CDISCPILOT01,DS,716-1189,R752,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,04-08-2013,04-08-2013,181
+CDISCPILOT01,DS,716-1229,R753,Randomized,Randomized,Protocol Milestone,1,Baseline,02-20-2013,02-20-2013,0
+CDISCPILOT01,DS,716-1229,R754,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,04-02-2013,04-02-2013,41
+CDISCPILOT01,DS,716-1229,R755,NA,Final Lab Visit,Disposition Event,3,Week 6,04-02-2013,04-02-2013,41
+CDISCPILOT01,DS,716-1244,R756,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,08-15-2013,08-15-2013,0
+CDISCPILOT01,DS,716-1298,R757,Randomized,Randomized,Protocol Milestone,1,Baseline,04-08-2013,04-08-2013,0
+CDISCPILOT01,DS,716-1298,R758,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,07-06-2013,07-06-2013,89
+CDISCPILOT01,DS,716-1298,R759,NA,Final Lab Visit,Disposition Event,3,Week 12,07-06-2013,07-06-2013,89
+CDISCPILOT01,DS,716-1298,R760,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,10-07-2013,10-07-2013,182
+CDISCPILOT01,DS,716-1305,R761,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,08-06-2013,08-06-2013,0
+CDISCPILOT01,DS,716-1308,R762,Randomized,Randomized,Protocol Milestone,1,Baseline,08-28-2013,08-28-2013,0
+CDISCPILOT01,DS,716-1308,R763,Placed in Nursing Home,Withdrawal by Subject,Disposition Event,1.1,Week 6,10-07-2013,10-07-2013,40
+CDISCPILOT01,DS,716-1308,R764,NA,Final Lab Visit,Disposition Event,3,Week 6,10-07-2013,10-07-2013,40
+CDISCPILOT01,DS,716-1311,R765,Randomized,Randomized,Protocol Milestone,1,Baseline,05-14-2014,05-14-2014,0
+CDISCPILOT01,DS,716-1311,R766,Institutionalized,Withdrawal by Subject,Disposition Event,1.1,Week 20,09-30-2014,09-30-2014,139
+CDISCPILOT01,DS,716-1311,R767,NA,Final Lab Visit,Disposition Event,3,Week 20,09-30-2014,09-30-2014,139
+CDISCPILOT01,DS,716-1311,R768,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,11-15-2014,11-15-2014,185
+CDISCPILOT01,DS,716-1331,R769,Screen Failure,Screen Failure,Disposition Event,0.1,Screening 1,11-25-2013,11-25-2013,0
+CDISCPILOT01,DS,716-1364,R770,Randomized,Randomized,Protocol Milestone,1,Baseline,07-04-2013,07-04-2013,0
+CDISCPILOT01,DS,716-1364,R771,Protocol Completed,Completed,Disposition Event,2,Week 26,01-09-2014,01-09-2014,189
+CDISCPILOT01,DS,716-1364,R772,NA,Final Lab Visit,Disposition Event,3,Week 26,01-09-2014,01-09-2014,189
+CDISCPILOT01,DS,716-1373,R773,Randomized,Randomized,Protocol Milestone,1,Baseline,12-14-2012,12-14-2012,0
+CDISCPILOT01,DS,716-1373,R774,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,02-28-2013,02-28-2013,76
+CDISCPILOT01,DS,716-1373,R775,NA,Final Lab Visit,Disposition Event,3,Week 12,02-28-2013,02-28-2013,76
+CDISCPILOT01,DS,716-1418,R776,Randomized,Randomized,Protocol Milestone,1,Baseline,05-05-2013,05-05-2013,0
+CDISCPILOT01,DS,716-1418,R777,Protocol Completed,Completed,Disposition Event,2,Week 26,11-20-2013,11-20-2013,199
+CDISCPILOT01,DS,716-1418,R778,NA,Final Lab Visit,Disposition Event,3,Week 26,11-20-2013,11-20-2013,199
+CDISCPILOT01,DS,716-1441,R779,Randomized,Randomized,Protocol Milestone,1,Baseline,01-22-2014,01-22-2014,0
+CDISCPILOT01,DS,716-1441,R780,Protocol Completed,Completed,Disposition Event,2,Week 26,07-22-2014,07-22-2014,181
+CDISCPILOT01,DS,716-1441,R781,NA,Final Lab Visit,Disposition Event,3,Week 26,07-22-2014,07-22-2014,181
+CDISCPILOT01,DS,716-1447,R782,Randomized,Randomized,Protocol Milestone,1,Baseline,12-16-2013,12-16-2013,0
+CDISCPILOT01,DS,716-1447,R783,Protocol Completed,Completed,Disposition Event,2,Week 26,06-17-2014,06-17-2014,183
+CDISCPILOT01,DS,716-1447,R784,NA,Final Lab Visit,Disposition Event,3,Week 26,06-17-2014,06-17-2014,183
+CDISCPILOT01,DS,717-1004,R785,Randomized,Randomized,Protocol Milestone,1,Baseline,01-14-2014,01-14-2014,0
+CDISCPILOT01,DS,717-1004,R786,Protocol Completed,Completed,Disposition Event,2,Week 26,07-16-2014,07-16-2014,183
+CDISCPILOT01,DS,717-1004,R787,NA,Final Lab Visit,Disposition Event,3,Week 26,07-16-2014,07-16-2014,183
+CDISCPILOT01,DS,717-1109,R788,Randomized,Randomized,Protocol Milestone,1,Baseline,01-27-2014,01-27-2014,0
+CDISCPILOT01,DS,717-1109,R789,Protocol Completed,Completed,Disposition Event,2,Week 26,07-28-2014,07-28-2014,182
+CDISCPILOT01,DS,717-1109,R790,NA,Final Lab Visit,Disposition Event,3,Week 26,07-28-2014,07-28-2014,182
+CDISCPILOT01,DS,717-1174,R791,Randomized,Randomized,Protocol Milestone,1,Baseline,01-22-2013,01-22-2013,0
+CDISCPILOT01,DS,717-1174,R792,Protocol Completed,Completed,Disposition Event,2,Week 26,07-24-2013,07-24-2013,183
+CDISCPILOT01,DS,717-1174,R793,NA,Final Lab Visit,Disposition Event,3,Week 26,07-24-2013,07-24-2013,183
+CDISCPILOT01,DS,717-1201,R794,Randomized,Randomized,Protocol Milestone,1,Baseline,12-19-2013,12-19-2013,0
+CDISCPILOT01,DS,717-1201,R795,"Lack of Efficacy, Patient Caregiver Perception",Lack of Efficacy,Disposition Event,1.1,Week 8,02-21-2014,02-21-2014,64
+CDISCPILOT01,DS,717-1201,R796,NA,Final Lab Visit,Disposition Event,3,Week 8,02-21-2014,02-21-2014,64
+CDISCPILOT01,DS,717-1344,R797,Randomized,Randomized,Protocol Milestone,1,Baseline,01-11-2014,01-11-2014,0
+CDISCPILOT01,DS,717-1344,R798,"Lack of Efficacy, Patient Caregiver Perception",Lack of Efficacy,Disposition Event,1.1,Week 8,03-14-2014,03-14-2014,62
+CDISCPILOT01,DS,717-1344,R799,NA,Final Lab Visit,Disposition Event,3,Week 8,03-14-2014,03-14-2014,62
+CDISCPILOT01,DS,717-1357,R800,Randomized,Randomized,Protocol Milestone,1,Baseline,05-01-2013,05-01-2013,0
+CDISCPILOT01,DS,717-1357,R801,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 24,10-20-2013,10-20-2013,172
+CDISCPILOT01,DS,717-1357,R802,NA,Final Lab Visit,Disposition Event,3,Week 24,10-20-2013,10-20-2013,172
+CDISCPILOT01,DS,717-1446,R803,Randomized,Randomized,Protocol Milestone,1,Baseline,09-01-2013,09-01-2013,0
+CDISCPILOT01,DS,717-1446,R804,Protocol Completed,Completed,Disposition Event,2,Week 26,03-04-2014,03-04-2014,184
+CDISCPILOT01,DS,717-1446,R805,NA,Final Lab Visit,Disposition Event,3,Unscheduled 13.1,03-17-2014,03-17-2014,197
+CDISCPILOT01,DS,718-1066,R806,Randomized,Randomized,Protocol Milestone,1,Baseline,07-07-2013,07-07-2013,0
+CDISCPILOT01,DS,718-1066,R807,Adverse Event,Adverse Event,Disposition Event,1.1,Week 2,07-30-2013,07-30-2013,23
+CDISCPILOT01,DS,718-1066,R808,NA,Final Lab Visit,Disposition Event,3,Week 2,07-30-2013,07-30-2013,23
+CDISCPILOT01,DS,718-1079,R809,Randomized,Randomized,Protocol Milestone,1,Baseline,09-19-2012,09-19-2012,0
+CDISCPILOT01,DS,718-1079,R810,NA,Final Lab Visit,Disposition Event,3,Week 6,10-31-2012,10-31-2012,42
+CDISCPILOT01,DS,718-1079,R811,Adverse Event,Adverse Event,Disposition Event,1.1,Week 6,11-06-2012,11-06-2012,48
+CDISCPILOT01,DS,718-1079,R812,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,03-05-2013,03-05-2013,167
+CDISCPILOT01,DS,718-1101,R813,Randomized,Randomized,Protocol Milestone,1,Baseline,02-17-2013,02-17-2013,0
+CDISCPILOT01,DS,718-1101,R814,Sponsor Decision (Study or Patient Discontinued by the Sponsor),Study Terminated by Sponsor,Disposition Event,1.1,Week 24,08-02-2013,08-02-2013,166
+CDISCPILOT01,DS,718-1101,R815,NA,Final Lab Visit,Disposition Event,3,Week 24,08-02-2013,08-02-2013,166
+CDISCPILOT01,DS,718-1139,R816,Randomized,Randomized,Protocol Milestone,1,Baseline,05-19-2013,05-19-2013,0
+CDISCPILOT01,DS,718-1139,R817,Protocol Completed,Completed,Disposition Event,2,Week 26,11-17-2013,11-17-2013,182
+CDISCPILOT01,DS,718-1139,R818,NA,Final Lab Visit,Disposition Event,3,Week 26,11-17-2013,11-17-2013,182
+CDISCPILOT01,DS,718-1150,R819,Randomized,Randomized,Protocol Milestone,1,Baseline,01-19-2013,01-19-2013,0
+CDISCPILOT01,DS,718-1150,R820,Protocol Completed,Completed,Disposition Event,2,Week 26,07-31-2013,07-31-2013,193
+CDISCPILOT01,DS,718-1150,R821,NA,Final Lab Visit,Disposition Event,3,Week 26,07-31-2013,07-31-2013,193
+CDISCPILOT01,DS,718-1170,R822,Randomized,Randomized,Protocol Milestone,1,Baseline,09-16-2013,09-16-2013,0
+CDISCPILOT01,DS,718-1170,R823,Adverse Event,Adverse Event,Disposition Event,1.1,Week 4,11-03-2013,11-03-2013,48
+CDISCPILOT01,DS,718-1170,R824,NA,Final Lab Visit,Disposition Event,3,Week 4,11-03-2013,11-03-2013,48
+CDISCPILOT01,DS,718-1170,R825,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,03-15-2014,03-15-2014,180
+CDISCPILOT01,DS,718-1172,R826,Randomized,Randomized,Protocol Milestone,1,Baseline,09-21-2013,09-21-2013,0
+CDISCPILOT01,DS,718-1172,R827,Patient to Begin Course of Aricept,Withdrawal by Subject,Disposition Event,1.1,Week 12,11-29-2013,11-29-2013,69
+CDISCPILOT01,DS,718-1172,R828,NA,Final Lab Visit,Disposition Event,3,Week 12,11-29-2013,11-29-2013,69
+CDISCPILOT01,DS,718-1172,R829,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,03-21-2014,03-21-2014,181
+CDISCPILOT01,DS,718-1250,R830,Randomized,Randomized,Protocol Milestone,1,Baseline,09-21-2013,09-21-2013,0
+CDISCPILOT01,DS,718-1250,R831,Adverse Event,Adverse Event,Disposition Event,1.1,Week 20,02-08-2014,02-08-2014,140
+CDISCPILOT01,DS,718-1250,R832,NA,Final Lab Visit,Disposition Event,3,Week 20,02-08-2014,02-08-2014,140
+CDISCPILOT01,DS,718-1250,R833,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,03-08-2014,03-08-2014,168
+CDISCPILOT01,DS,718-1254,R834,Randomized,Randomized,Protocol Milestone,1,Baseline,07-10-2013,07-10-2013,0
+CDISCPILOT01,DS,718-1254,R835,Protocol Completed,Completed,Disposition Event,2,Week 26,01-09-2014,01-09-2014,183
+CDISCPILOT01,DS,718-1254,R836,NA,Final Lab Visit,Disposition Event,3,Week 26,01-09-2014,01-09-2014,183
+CDISCPILOT01,DS,718-1328,R837,Randomized,Randomized,Protocol Milestone,1,Baseline,02-01-2013,02-01-2013,0
+CDISCPILOT01,DS,718-1328,R838,Patient Unable to Tolerate Dermal Irritation at Patch Site,Withdrawal by Subject,Disposition Event,1.1,Week 12,05-01-2013,05-01-2013,89
+CDISCPILOT01,DS,718-1328,R839,NA,Final Lab Visit,Disposition Event,3,Week 12,05-01-2013,05-01-2013,89
+CDISCPILOT01,DS,718-1328,R840,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,07-24-2013,07-24-2013,173
+CDISCPILOT01,DS,718-1355,R841,Randomized,Randomized,Protocol Milestone,1,Baseline,02-28-2013,02-28-2013,0
+CDISCPILOT01,DS,718-1355,R842,Protocol Completed,Completed,Disposition Event,2,Week 26,08-29-2013,08-29-2013,182
+CDISCPILOT01,DS,718-1355,R843,NA,Final Lab Visit,Disposition Event,3,Week 26,08-29-2013,08-29-2013,182
+CDISCPILOT01,DS,718-1371,R844,Randomized,Randomized,Protocol Milestone,1,Baseline,04-26-2013,04-26-2013,0
+CDISCPILOT01,DS,718-1371,R845,NA,Final Lab Visit,Disposition Event,3,Week 12,08-01-2013,08-01-2013,97
+CDISCPILOT01,DS,718-1371,R846,Adverse Event,Adverse Event,Disposition Event,1.1,Week 12,08-08-2013,08-08-2013,104
+CDISCPILOT01,DS,718-1427,R847,Randomized,Randomized,Protocol Milestone,1,Baseline,12-17-2012,12-17-2012,0
+CDISCPILOT01,DS,718-1427,R848,"Lack of Efficacy, Patient Caregiver Perception",Lack of Efficacy,Disposition Event,1.1,Week 8,02-18-2013,02-18-2013,63
+CDISCPILOT01,DS,718-1427,R849,NA,Final Lab Visit,Disposition Event,3,Unscheduled 8.2,02-18-2013,02-18-2013,63
+CDISCPILOT01,DS,718-1427,R850,NA,Final Retrieval Visit,Disposition Event,4,Retrieval,06-03-2013,06-03-2013,168
