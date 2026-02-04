@@ -69,6 +69,6 @@ ggplot(ae_counts, aes(x = proportion, y = AETERM)) +
   labs(
     x = "Incidence Rate (%)",
     y = "Adverse Event",
-    title = "Top 10 Most Frequent Adverse Effects"
+    title = "Top 10 Most Frequent Adverse Events"
   ) +
   theme_minimal()
