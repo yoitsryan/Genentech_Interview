@@ -42,7 +42,7 @@ library(pharmaverseadam)
 library(binom)  # for confidence intervals
 
 # Count subjects with each AE
-ae_counts <- adae_te %>%
+ae_counts <- pharmaverseadam::adae %>%
   group_by(AETERM) %>%
   summarise(n = n_distinct(USUBJID), .groups="drop") %>%
   arrange(desc(n)) %>%

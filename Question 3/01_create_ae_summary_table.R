@@ -14,11 +14,6 @@ pharma_adsl = pharmaverseadam::adsl
 adae_te <- pharma_adae %>%
   filter(TRTEMFL == "Y")  # Only treatment-emergent AEs
 
-# Step 2: Join with ADSL to get treatment information (if not already present)
-# Note: ACTARM should already be in ADAE, but double-check
-# adae_te <- adae_te %>%
-#   left_join(pharma_adsl %>% select(USUBJID, ACTARM), by = "USUBJID")
-
 # Step 2: Create summary table (count and percent)
 ae_summary <- adae_te %>%
   # Count subjects with each AE by treatment
